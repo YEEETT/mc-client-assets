@@ -1,0 +1,1413 @@
+1,1.0,cosmetics/cloaks/youtube_1.webp,YouTube Red,cape,false
+2,1.0,cosmetics/cloaks/twitch_1.webp,Twitch Purple,cape,false
+3,1.0,cosmetics/cloaks/lunar_client_1.webp,Lunar Client Classic,cape,false
+4,1.0,cosmetics/cloaks/moonsworth_1.webp,Moonsworth Navy Blue,cape,false
+5,1.0,cosmetics/cloaks/lunar_network_1.webp,Lunar Network Black,cape,false
+6,0.13,cosmetics/wings/black.webp,Black Wings,dragon_wings,false
+8,0.13,cosmetics/wings/red.webp,Red Wings,dragon_wings,false
+9,0.13,cosmetics/wings/purple.webp,Purple Wings,dragon_wings,false
+11,0.13,cosmetics/wings/turquoise.webp,Turquoise Wings,dragon_wings,false
+12,0.13,cosmetics/wings/blue.webp,Blue Wings,dragon_wings,false
+13,0.13,cosmetics/wings/darkblue.webp,Dark Blue Wings,dragon_wings,false
+14,0.13,cosmetics/wings/green.webp,Green Wings,dragon_wings,false
+15,1.0,cosmetics/cloaks/moonsworth_2.webp,Moonsworth Purple,cape,false
+16,0.13,cosmetics/wings/yellow.webp,Yellow Wings,dragon_wings,false
+17,1.0,cosmetics/cloaks/lunar_network_2.webp,Lunar Network White,cape,false
+18,1.0,cosmetics/cloaks/lunar_client_2.webp,Lunar Client Violet,cape,false
+19,1.0,cosmetics/cloaks/lunar_client_3.webp,Lunar Client Purple Gold,cape,false
+20,1.0,cosmetics/cloaks/lunar_client_4.webp,Lunar Client Noir,cape,false
+21,0.13,cosmetics/wings/bone.webp,Bone Wings,dragon_wings,false
+22,1.0,cosmetics/cloaks/canada.webp,Canada,cape,false
+23,1.0,cosmetics/cloaks/france.webp,France,cape,false
+24,1.0,cosmetics/cloaks/japan.webp,Japan,cape,false
+25,1.0,cosmetics/cloaks/mexico.webp,Mexico,cape,false
+26,1.0,cosmetics/cloaks/spain.webp,Spain,cape,false
+27,1.0,cosmetics/cloaks/uk.webp,United Kingdom,cape,false
+28,0.13,cosmetics/wings/indigo.webp,Indigo Wings,dragon_wings,false
+29,0.13,cosmetics/wings/orange.webp,Orange Wings,dragon_wings,false
+30,0.13,cosmetics/wings/pink.webp,Pink Wings,dragon_wings,false
+31,1.0,cosmetics/cloaks/brazil.webp,Brazil,cape,false
+32,1.0,cosmetics/cloaks/usa.webp,United States,cape,false
+33,1.0,cosmetics/cloaks/sotw_xelvy.webp,SOTW (Xelvy),cape,false
+34,1.0,cosmetics/cloaks/moonsworth_3.webp,Moonsworth Black,cape,false
+35,1.0,cosmetics/cloaks/moonsworth_4.webp,Moonsworth White,cape,false
+36,1.0,cosmetics/cloaks/moonsworth_5.webp,Moonsworth White/Black,cape,false
+37,1.0,cosmetics/cloaks/moonsworth_6.webp,Moonsworth Black/Silver,cape,false
+38,1.0,cosmetics/cloaks/moonsworth_7.webp,Moonsworth Gold,cape,false
+39,1.0,cosmetics/cloaks/youtube_2.webp,YouTube White,cape,false
+40,1.0,cosmetics/cloaks/youtube_3.webp,YouTube Gold,cape,false
+41,1.0,cosmetics/cloaks/season1_nodebuff.webp,Season 1 NoDebuff,cape,false
+42,1.0,cosmetics/cloaks/season1_debuff.webp,Season 1 Debuff,cape,false
+43,1.0,cosmetics/cloaks/season1_global.webp,Season 1 Global,cape,false
+44,1.0,cosmetics/cloaks/season1_gapple.webp,Season 1 Gapple,cape,false
+45,1.0,cosmetics/cloaks/season1_archer.webp,Season 1 Archer,cape,false
+46,1.0,cosmetics/cloaks/season1_sumo.webp,Season 1 Sumo,cape,false
+47,1.0,cosmetics/cloaks/season1_uhc.webp,Season 1 UHC,cape,false
+48,1.0,cosmetics/cloaks/season1_soup.webp,Season 1 Soup,cape,false
+49,1.0,cosmetics/cloaks/lunar_client_5.webp,Lunar Client Gold,cape,false
+50,1.0,cosmetics/cloaks/lunar_client_6.webp,Lunar Client Silk,cape,false
+52,1.0,cosmetics/cloaks/twitch_2.webp,Twitch White,cape,false
+53,0.13,cosmetics/wings/butterfly_1.webp,Butterfly Blue,dragon_wings,false
+54,0.13,cosmetics/wings/butterfly_2.webp,Butterfly Gold,dragon_wings,false
+55,1.0,cosmetics/cloaks/venezuela.webp,Venezuela,cape,false
+56,1.0,cosmetics/cloaks/sotw_cn6.webp,SOTW (cn6),cape,false
+57,1.0,cosmetics/cloaks/builder.webp,Builder Cape,cape,false
+62,1.0,cosmetics/cloaks/420.webp,Original Leaf Cloak,cape,false
+63,1.0,cosmetics/cloaks/lunar_network_3.webp,Lunar Network White Gold,cape,false
+64,1.0,cosmetics/cloaks/squads_map1_base.webp,Squads Map 1 Dawn Base,cape,false
+65,1.0,cosmetics/cloaks/squads_map1_eotw.webp,Squads Map 1 EOTW,cape,false
+68,1.0,cosmetics/cloaks/squads_map2_eotw.webp,Squads Map 2 EOTW,cape,false
+69,1.0,cosmetics/cloaks/squads_map2_base.webp,Squads Map 2 Darling Base,cape,false
+70,1.0,cosmetics/cloaks/faze_1.webp,FaZe Cape 1,cape,false
+71,1.0,cosmetics/cloaks/tsm.webp,TSM Cape,cape,false
+77,1.0,cosmetics/cloaks/nrg.webp,NRG Cape,cape,false
+78,1.0,cosmetics/cloaks/ghost.webp,Ghost Cape,cape,false
+79,1.0,cosmetics/cloaks/faze_2.webp,FaZe Cape 2,cape,false
+83,1.0,cosmetics/cloaks/map1nasa.webp,Teams Map 1 NASA Base,cape,false
+84,1.0,cosmetics/cloaks/goldenappledark.webp,Golden Apple (Black),cape,false
+85,1.0,cosmetics/cloaks/goldenapplewhite.webp,Golden Apple (Gray),cape,false
+87,1.0,cosmetics/cloaks/map1eotw.webp,Teams Map 1,cape,false
+94,1.0,cosmetics/cloaks/teams_map_2_eotw.webp,Teams Map 2 EOTW,cape,false
+95,1.0,cosmetics/cloaks/teams_map_2_base_ninja.webp,Teams Map 2 Ninja Base,cape,false
+96,1.0,cosmetics/cloaks/teams_map_2_base_quebec.webp,Teams Map 2 Quebec Base,cape,false
+97,1.0,cosmetics/cloaks/teams_map_3_eotw.webp,Teams Map 3 EOTW,cape,false
+101,1.0,cosmetics/cloaks/tournament_cape_1.webp,First Place (Tournament),cape,false
+102,1.0,cosmetics/cloaks/tournament_cape_2.webp,Second Place (Tournament),cape,false
+103,1.0,cosmetics/cloaks/tournament_cape_3.webp,Third Place (Tournament),cape,false
+126,1.0,cosmetics/cloaks/whiteheart.webp,White Heart,cape,false
+127,1.0,cosmetics/cloaks/season_2_vanilla.webp,Season 2 Vanilla Cape,cape,false
+132,1.0,cosmetics/cloaks/season_2_sumo.webp,Season 2 Sumo,cape,false
+133,1.0,cosmetics/cloaks/season_2_axe.webp,Season 2 Axe,cape,false
+134,1.0,cosmetics/cloaks/season_2_global.webp,Season 2 Global,cape,false
+135,1.0,cosmetics/cloaks/season_2_builduhc.webp,Season 2 BuildUHC,cape,false
+136,1.0,cosmetics/cloaks/season_2_bridges.webp,Season 2 Bridges,cape,false
+143,1.0,cosmetics/cloaks/breastcancerbow1.webp,Pink Bow,cape,false
+144,1.0,cosmetics/cloaks/breastcancerawarenessmonth1.webp,Pink October Heart (Pink),cape,false
+145,1.0,cosmetics/cloaks/breastcancerawarenessmonth2.webp,Pink October Heart (White),cape,false
+146,1.0,cosmetics/cloaks/breastcancerbow2.webp,Bow (Pink Hearts),cape,false
+147,1.0,cosmetics/cloaks/breastcancerbow3.webp,Light Pink Bow,cape,false
+148,1.0,cosmetics/cloaks/breastcancerbow4.webp,Bow (White Hearts),cape,false
+149,1.0,cosmetics/cloaks/breastcancerheart1.webp,White Heart Ribbon,cape,false
+150,1.0,cosmetics/cloaks/breastcancerheart2.webp,Pink Heart Ribbon,cape,false
+151,1.0,cosmetics/cloaks/halloweenclown.webp,Halloween Clown,cape,false
+152,1.0,cosmetics/cloaks/halloweengraveyard.webp,Halloween Graveyard,cape,false
+154,1.0,cosmetics/cloaks/pinkawarenessheart.webp,BCRF Heart (Pink),cape,false
+156,1.0,cosmetics/cloaks/season_2_soup.webp,Season 2 Soup,cape,false
+157,1.0,cosmetics/cloaks/halloweenjoker.webp,Halloween Joker,cape,false
+158,1.0,cosmetics/cloaks/halloweenwitch.webp,Halloween Witch,cape,false
+160,1.0,cosmetics/cloaks/heart1.webp,Red Heart,cape,false
+163,1.0,cosmetics/cloaks/heart2.webp,Gold Heart,cape,false
+164,1.0,cosmetics/cloaks/wisp.webp,wisp,cape,false
+166,1.0,cosmetics/cloaks/season_2_debuff.webp,Season 2 Debuff,cape,false
+167,1.0,cosmetics/cloaks/king.webp,King Cape,cape,false
+173,1.0,cosmetics/cloaks/tryhardgiveaway.webp,Tryhard Giveaway,cape,false
+174,1.0,cosmetics/cloaks/marcel.webp,Stimpy,cape,false
+182,1.0,cosmetics/cloaks/calvin.webp,Calvin,cape,false
+183,1.0,cosmetics/cloaks/christmassanta.webp,Christmas Santa,cape,false
+184,1.0,cosmetics/cloaks/christmassnowflake.webp,Christmas Snowflake,cape,false
+185,1.0,cosmetics/cloaks/christmastree.webp,Christmas Tree,cape,false
+187,1.0,cosmetics/cloaks/rky.webp,RKY,cape,false
+188,1.0,cosmetics/cloaks/speedsilver.webp,SpeedSilver,cape,false
+189,1.0,cosmetics/cloaks/tryhard.webp,Tryhard Gauntlet,cape,false
+190,1.0,cosmetics/cloaks/wispexe.webp,Wispexe,cape,false
+191,1.0,cosmetics/cloaks/wispexecandle.webp,Wispexe Candle,cape,false
+193,1.0,cosmetics/cloaks/viperblack.webp,Viper Jett Black,cape,false
+194,1.0,cosmetics/cloaks/viperorange.webp,Viper Orange,cape,false
+195,1.0,cosmetics/cloaks/viperblue.webp,Viper Blue,cape,false
+197,1.0,cosmetics/cloaks/thanksgivingpilgrim.webp,Thanksgiving Pilgrim,cape,false
+198,1.0,cosmetics/cloaks/thanksgivingturkey.webp,Thanksgiving Turkey,cape,false
+199,1.0,cosmetics/cloaks/thanksgivingleaf.webp,Thanksgiving Leaf,cape,false
+201,1.0,cosmetics/cloaks/christmassnowman.webp,Christmas Snowman,cape,false
+203,1.0,cosmetics/cloaks/tryhardinfinity.webp,Tryhard,cape,false
+204,1.0,cosmetics/cloaks/christmasred.webp,Christmas Red,cape,false
+205,1.0,cosmetics/cloaks/Hannahxxrose.webp,Hannahxxrose,cape,false
+206,1.0,cosmetics/cloaks/christmasblue.webp,Christmas Blue,cape,false
+207,1.0,cosmetics/cloaks/rain.webp,rain,cape,false
+208,1.0,cosmetics/cloaks/champagne.webp,Champagne,cape,false
+209,1.0,cosmetics/cloaks/wine.webp,Wine,cape,false
+210,1.0,cosmetics/cloaks/minejunkiered.webp,MineJunkie Red,cape,false
+211,1.0,cosmetics/cloaks/minejunkiesnow.webp,MineJunkie Snow,cape,false
+212,1.0,cosmetics/cloaks/firework.webp,Firework,cape,false
+213,1.0,cosmetics/cloaks/newyearfireworks.webp,New Year Fireworks 2020,cape,false
+214,1.0,cosmetics/cloaks/newyear2020.webp,New Year 2020,cape,false
+215,1.0,cosmetics/cloaks/Hannahxxrose2.webp,Rose,cape,false
+216,1.0,cosmetics/cloaks/croatia.webp,Croatia,cape,false
+217,1.0,cosmetics/cloaks/germany.webp,Germany,cape,false
+218,1.0,cosmetics/cloaks/italy.webp,Italy,cape,false
+219,1.0,cosmetics/cloaks/ireland.webp,Ireland,cape,false
+220,1.0,cosmetics/cloaks/netherlands.webp,Netherlands,cape,false
+221,1.0,cosmetics/cloaks/newzealand.webp,New Zealand,cape,false
+222,1.0,cosmetics/cloaks/norway.webp,Norway,cape,false
+223,1.0,cosmetics/cloaks/poland.webp,Poland,cape,false
+224,1.0,cosmetics/cloaks/portugal.webp,Portugal,cape,false
+225,1.0,cosmetics/cloaks/russia.webp,Russia,cape,false
+226,1.0,cosmetics/cloaks/southkorea.webp,South Korea,cape,false
+227,1.0,cosmetics/cloaks/sweden.webp,Sweden,cape,false
+228,1.0,cosmetics/cloaks/australia.webp,Australia,cape,false
+229,1.0,cosmetics/cloaks/argentina.webp,Argentina,cape,false
+230,1.0,cosmetics/cloaks/belgium.webp,Belgium,cape,false
+231,1.0,cosmetics/cloaks/chile.webp,Chile,cape,false
+232,1.0,cosmetics/cloaks/israel.webp,Israel,cape,false
+233,1.0,cosmetics/cloaks/lithuania.webp,Lithuania,cape,false
+234,1.0,cosmetics/cloaks/peru.webp,Peru,cape,false
+235,1.0,cosmetics/cloaks/valentine_cape_1.webp,Lunar Client Valentine (Black),cape,false
+236,1.0,cosmetics/cloaks/valentine_cape_2.webp,Lunar Network Valentine (Black),cape,false
+237,1.0,cosmetics/cloaks/valentine_cape_3.webp,Lunar Client Valentine (White),cape,false
+238,1.0,cosmetics/cloaks/valentine_cape_4.webp,Lunar Network Valentine (White),cape,false
+239,1.0,cosmetics/cloaks/lunar_client_7.webp,Lunar Client Blue,cape,false
+240,1.0,cosmetics/cloaks/greece.webp,Greece,cape,false
+241,1.0,cosmetics/cloaks/guatemala.webp,Guatemala,cape,false
+243,1.0,cosmetics/cloaks/pride.webp,Pride,cape,false
+244,1.0,cosmetics/cloaks/serbia.webp,Serbia,cape,false
+245,1.0,cosmetics/cloaks/teamsmap4.webp,Teams Map 4 EOTW,cape,false
+247,1.0,cosmetics/cloaks/vapeblitzkrieg.webp,Blitzkrieg (Vape),cape,false
+248,1.0,cosmetics/cloaks/epaxial.webp,Epaxial,cape,false
+249,1.0,cosmetics/cloaks/dragneel.webp,Dragneel,cape,false
+250,1.0,cosmetics/cloaks/weebs.webp,Weebs,cape,false
+251,1.0,cosmetics/cloaks/swift.webp,Swift,cape,false
+252,1.0,cosmetics/cloaks/nasa.webp,NASA,cape,false
+253,1.0,cosmetics/cloaks/sn1.webp,SN1,cape,false
+254,1.0,cosmetics/cloaks/voltage.webp,Voltage,cape,false
+255,1.0,cosmetics/cloaks/rapidraidz.webp,RapidRaidz,cape,false
+256,1.0,cosmetics/cloaks/loyalty.webp,Loyalty,cape,false
+257,1.0,cosmetics/cloaks/arma.webp,Arma,cape,false
+258,1.0,cosmetics/cloaks/requiem.webp,Requiem,cape,false
+259,1.0,cosmetics/cloaks/blackvalentineheart.webp,Black Valentine Heart,cape,false
+260,1.0,cosmetics/cloaks/kangaroo.webp,Kangaroo,cape,false
+261,1.0,cosmetics/cloaks/kangaroofamily.webp,Kangaroo Family,cape,false
+262,1.0,cosmetics/cloaks/koala.webp,Koala,cape,false
+263,1.0,cosmetics/cloaks/koalafamily.webp,Koala Family,cape,false
+264,1.0,cosmetics/cloaks/djibouti.webp,Djibouti,cape,false
+265,1.0,cosmetics/cloaks/valentinehearts.webp,Valentine Hearts,cape,false
+266,1.0,cosmetics/cloaks/valentinehearts2.webp,Valentine Pride,cape,false
+267,1.0,cosmetics/cloaks/valentinecupid.webp,Valentine Cupid Heart,cape,false
+269,1.0,cosmetics/cloaks/squadsmap6.webp,Squads Map 6 EOTW,cape,false
+271,1.0,cosmetics/cloaks/meezoid.webp,MeeZoid,cape,false
+274,1.0,cosmetics/cloaks/suchspeedflame.webp,SuchSpeed,cape,false
+275,1.0,cosmetics/cloaks/lunarirelandlogo.webp,Lunar Client Ireland,cape,false
+276,1.0,cosmetics/cloaks/pi_black.webp,Pi (Black),cape,false
+277,1.0,cosmetics/cloaks/pi_white.webp,Pi (White),cape,false
+279,1.0,cosmetics/cloaks/stpatrick.webp,Saint Patrick,cape,false
+280,1.0,cosmetics/cloaks/stpatricksclover.webp,St Patrick Clover,cape,false
+281,1.0,cosmetics/cloaks/stpatricksgold.webp,St Patrick Gold Logo,cape,false
+282,1.0,cosmetics/cloaks/stpatricksgoodluck.webp,St Patrick Goodluck,cape,false
+283,1.0,cosmetics/cloaks/stpatrickshat.webp,St Patrick Hat Logo,cape,false
+284,1.0,cosmetics/cloaks/stpatrickslogo.webp,St Patrick Logo,cape,false
+285,1.0,cosmetics/cloaks/angryemoji.webp,Angry Emoji,cape,false
+286,1.0,cosmetics/cloaks/animalfox.webp,Fox,cape,false
+287,1.0,cosmetics/cloaks/animalkitten.webp,Kitten,cape,false
+288,1.0,cosmetics/cloaks/animallion.webp,Lion,cape,false
+289,1.0,cosmetics/cloaks/animalpanda.webp,Panda,cape,false
+290,1.0,cosmetics/cloaks/animalpenguin.webp,Penguin,cape,false
+291,1.0,cosmetics/cloaks/animalpig.webp,Pig,cape,false
+292,1.0,cosmetics/cloaks/animalpuppy.webp,Puppy,cape,false
+293,1.0,cosmetics/cloaks/awkwardemoji.webp,Awkward Emoji,cape,false
+294,1.0,cosmetics/cloaks/clownemoji.webp,Clown Emoji,cape,false
+295,1.0,cosmetics/cloaks/coldemoji.webp,Cold Emoji,cape,false
+296,1.0,cosmetics/cloaks/devilemoji.webp,Devil Emoji,cape,false
+297,1.0,cosmetics/cloaks/hearteyesemoji.webp,Heart Eyes Emoji,cape,false
+298,1.0,cosmetics/cloaks/kissemoji.webp,Kiss Emoji,cape,false
+299,1.0,cosmetics/cloaks/nerdemoji.webp,Nerd Emoji,cape,false
+300,1.0,cosmetics/cloaks/sademoji.webp,Sad Emoji,cape,false
+301,1.0,cosmetics/cloaks/smileemoji.webp,Smile Emoji,cape,false
+302,1.0,cosmetics/cloaks/straightfaceemoji.webp,Straight Face Emoji,cape,false
+303,1.0,cosmetics/cloaks/tongueoutemoji.webp,Tongue Out Emoji,cape,false
+304,1.0,cosmetics/cloaks/vomitemoji.webp,Vomit Emoji,cape,false
+305,1.0,cosmetics/cloaks/winkemoji.webp,Wink Emoji,cape,false
+306,1.0,cosmetics/cloaks/zonixwhite.webp,Zonix White,cape,false
+307,1.0,cosmetics/cloaks/zonixblack.webp,Zonix Black,cape,false
+308,1.0,cosmetics/cloaks/refraction.webp,Refraction,cape,false
+309,1.0,cosmetics/cloaks/sammygreengray.webp,SammyGreen #1,cape,false
+310,1.0,cosmetics/cloaks/sammygreenwhite.webp,SammyGreen #2,cape,false
+311,1.0,cosmetics/cloaks/teamsmap5base.webp,Teams Map 5 Hunk Base,cape,false
+312,1.0,cosmetics/cloaks/teamsmap5eotw.webp,Teams Map 5 EOTW,cape,false
+313,1.0,cosmetics/cloaks/season3archer.webp,Season 3 Archer,cape,false
+314,1.0,cosmetics/cloaks/season3axe.webp,Season 3 Axe,cape,false
+315,1.0,cosmetics/cloaks/season3bridges.webp,Season 3 Bridges,cape,false
+316,1.0,cosmetics/cloaks/season3build.webp,Season 3 Build,cape,false
+317,1.0,cosmetics/cloaks/season3debuff.webp,Season 3 Debuff,cape,false
+318,1.0,cosmetics/cloaks/season3gapple.webp,Season 3 Gapple,cape,false
+319,1.0,cosmetics/cloaks/season3nodebuff.webp,Season 3 NoDebuff,cape,false
+320,1.0,cosmetics/cloaks/season3soup.webp,Season 3 Soup,cape,false
+321,1.0,cosmetics/cloaks/season3sumo.webp,Season 3 Sumo,cape,false
+322,1.0,cosmetics/cloaks/season3vanilla.webp,Season 3 Vanilla,cape,false
+323,1.0,cosmetics/cloaks/viperpink.webp,Viper Pink,cape,false
+324,1.0,cosmetics/cloaks/viperred.webp,Viper Red,cape,false
+325,1.0,cosmetics/cloaks/viperwhite.webp,Viper White,cape,false
+326,1.0,cosmetics/cloaks/dauntless.webp,Dauntless,cape,false
+327,1.0,cosmetics/cloaks/banana.webp,BananaOnTour,cape,false
+328,1.0,cosmetics/cloaks/beans.webp,Beans,cape,false
+329,1.0,cosmetics/cloaks/rkycarrot.webp,RKY Carrot,cape,false
+330,1.0,cosmetics/cloaks/rkycarrot.webp,RKY Carrot,cape,false
+331,1.0,cosmetics/cloaks/raindynasty.webp,RaiN_DyNasty,cape,false
+332,0.13,cosmetics/wings/lightbluewings.webp,Light Blue Wings,dragon_wings,false
+333,0.13,cosmetics/wings/lightpinkwings.webp,Light Pink Wings,dragon_wings,false
+334,0.13,cosmetics/wings/mintwings.webp,Mint Wings,dragon_wings,false
+335,1.0,cosmetics/cloaks/easterbunnyears.webp,Bunny Ears,cape,false
+336,1.0,cosmetics/cloaks/easterblossom.webp,Blossom,cape,false
+337,1.0,cosmetics/cloaks/easterlunarnetwork.webp,Easter Bunny,cape,false
+338,1.0,cosmetics/cloaks/easterlunarclient.webp,Easter Eggs,cape,false
+339,1.0,cosmetics/cloaks/mythicblack.webp,Mythic Black,cape,false
+340,1.0,cosmetics/cloaks/mythicwhite.webp,Mythic White,cape,false
+341,0.13,cosmetics/wings/rainbowbutterfly.webp,Rainbow Butterfly,dragon_wings,false
+342,0.13,cosmetics/wings/pinkbutterfly.webp,Pink Butterfly,dragon_wings,false
+343,1.0,cosmetics/cloaks/holyhcfwhite.webp,HolyHCF White,cape,false
+344,1.0,cosmetics/cloaks/holyhcfblack.webp,HolyHCF Black,cape,false
+345,1.0,cosmetics/cloaks/holyhcfgoldborder.webp,HolyHCF Gold Border,cape,false
+346,1.0,cosmetics/cloaks/mcteamscape.webp,MCTeams Legacy,cape,false
+347,1.0,cosmetics/cloaks/soupcape.webp,Soup,cape,false
+348,1.0,cosmetics/cloaks/gladenetwork.webp,Glade Network,cape,false
+349,1.0,cosmetics/cloaks/teamsmap6eotw.webp,Teams Map 6 EOTW,cape,false
+350,1.0,cosmetics/cloaks/imakemcvidz1.webp,iMakeMcVids #1,cape,false
+351,1.0,cosmetics/cloaks/imakemcvidz2.webp,iMakeMcVids #2,cape,false
+352,1.0,cosmetics/cloaks/ghostylyhcf.webp,Ghostly Network,cape,false
+353,1.0,cosmetics/cloaks/42020.webp,Leaf Cloak Logo,cape,false
+354,0.13,cosmetics/wings/weedwings.webp,Leaf Wings,dragon_wings,false
+355,1.0,cosmetics/cloaks/420private.webp,Marley,cape,false
+356,1.0,cosmetics/cloaks/imakemcvids3.webp,iMakeMcVids,cape,false
+357,1.0,cosmetics/cloaks/xnestorio1.webp,xNestorio,cape,false
+358,1.0,cosmetics/cloaks/grapeapplesauce.webp,Grapeapplesauce,cape,false
+359,1.0,cosmetics/cloaks/kiingtong1.webp,Kiingtong #1,cape,false
+360,1.0,cosmetics/cloaks/kiingtong2.webp,Kiingtong,cape,false
+361,1.0,cosmetics/cloaks/gladenetworkwhite.webp,Glade Network White,cape,false
+362,1.0,cosmetics/cloaks/emmarose1.webp,EmOrSomething #1,cape,false
+363,1.0,cosmetics/cloaks/emmarose2.webp,EmOrSomething,cape,false
+364,1.0,cosmetics/cloaks/lunaraqua.webp,Lunar Aqua,cape,false
+365,1.0,cosmetics/cloaks/lunarlightning.webp,Lunar Lightning,cape,false
+366,1.0,cosmetics/cloaks/lunarflame.webp,Lunar Flame,cape,false
+367,1.0,cosmetics/cloaks/lunarstars.webp,Lunar Stars,cape,false
+368,1.0,cosmetics/cloaks/graser1.webp,Graser10,cape,false
+369,1.0,cosmetics/cloaks/graser2.webp,Graser #2,cape,false
+370,1.0,cosmetics/cloaks/graser3.webp,Graser #3,cape,false
+371,1.0,cosmetics/cloaks/graser4.webp,Graser #4,cape,false
+372,1.0,cosmetics/cloaks/graser5.webp,Graser #5,cape,false
+373,1.0,cosmetics/cloaks/shadowapples1.webp,ShadowApples,cape,false
+374,1.0,cosmetics/cloaks/shadowapples2.webp,ShadowApples #2,cape,false
+375,1.0,cosmetics/cloaks/shadowapples3.webp,ShadowApples #3,cape,false
+376,1.0,cosmetics/cloaks/shadowapples4.webp,ShadowApples #4,cape,false
+377,1.0,cosmetics/cloaks/ghostlyhcfred.webp,Ghostly Network Red,cape,false
+378,1.0,cosmetics/cloaks/ghostlyhcfblack.webp,Ghostly Network Black,cape,false
+379,1.0,cosmetics/cloaks/calvinblue.webp,Calvin Blue,cape,false
+380,1.0,cosmetics/cloaks/africafaction.webp,Africa,cape,false
+381,1.0,cosmetics/cloaks/bunkersleague1.webp,Bunkers League #1,cape,false
+382,1.0,cosmetics/cloaks/marcelsword1.webp,Marcel #1,cape,false
+383,1.0,cosmetics/cloaks/marcelsword2.webp,Marcel #2,cape,false
+384,1.0,cosmetics/cloaks/marcelsword3.webp,Marcel #3,cape,false
+385,1.0,cosmetics/cloaks/viper4black.webp,Viper Back to Back #1,cape,false
+386,1.0,cosmetics/cloaks/viper4white.webp,Viper Back to Back #2,cape,false
+387,1.0,cosmetics/cloaks/marcelred1.webp,Stimpy Sword,cape,false
+388,1.0,cosmetics/cloaks/marcelred2.webp,Marcel Red #2,cape,false
+389,1.0,cosmetics/cloaks/season4archer.webp,Season 4 Archer,cape,false
+390,1.0,cosmetics/cloaks/season4axe.webp,Season 4 Axe,cape,false
+391,1.0,cosmetics/cloaks/season4build.webp,Season 4 BuildUHC,cape,false
+392,1.0,cosmetics/cloaks/season4debuff.webp,Season 4 Debuff,cape,false
+393,1.0,cosmetics/cloaks/season4nodebuff.webp,Season 4 No Debuff,cape,false
+394,1.0,cosmetics/cloaks/season4soup.webp,Season 4 Soup,cape,false
+395,1.0,cosmetics/cloaks/season4sumo.webp,Season 4 Sumo,cape,false
+396,1.0,cosmetics/cloaks/season4vanilla.webp,Season 4 Vanilla,cape,false
+397,1.0,cosmetics/cloaks/teamsmap7eotw.webp,Teams Map 7 EOTW,cape,false
+398,1.0,cosmetics/cloaks/lunarshowdown1.webp,Lunar Showdown #1,cape,false
+399,1.0,cosmetics/cloaks/lunarshowdown2.webp,Lunar Showdown #2,cape,false
+400,1.0,cosmetics/cloaks/bluefoglogo.webp,Royal Blue,cape,false
+401,1.0,cosmetics/cloaks/orangefoglogo.webp,Vibrant Orange,cape,false
+402,1.0,cosmetics/cloaks/yellowfoglogo.webp,Summer Yellow,cape,false
+403,1.0,cosmetics/cloaks/purplefoglogo.webp,Bright Purple,cape,false
+404,1.0,cosmetics/cloaks/greenfoglogo.webp,Lush Green,cape,false
+405,1.0,cosmetics/cloaks/redfoglogo.webp,Deep Red,cape,false
+406,1.0,cosmetics/cloaks/whitechromalogo.webp,White Chroma,cape,false
+407,1.0,cosmetics/cloaks/blackchromalogo.webp,Black Chroma,cape,false
+408,1.0,cosmetics/cloaks/faithfulnetwork.webp,Faithful Network,cape,false
+409,0.13,cosmetics/wings/redfogwings.webp,Deep Red Wings,dragon_wings,false
+410,0.13,cosmetics/wings/greenfogwings.webp,Lush Green Wings,dragon_wings,false
+411,0.13,cosmetics/wings/yellowfogwings.webp,Summer Yellow Wings,dragon_wings,false
+412,0.13,cosmetics/wings/bluefogwings.webp,Royal Blue Wings,dragon_wings,false
+413,0.13,cosmetics/wings/orangefogwings.webp,Vibrant Orange Wings,dragon_wings,false
+414,0.13,cosmetics/wings/purplefogwings.webp,Bright Purple Wings,dragon_wings,false
+415,1.0,cosmetics/cloaks/xnestoriopink.webp,xNestorio Pink,cape,false
+416,1.0,cosmetics/cloaks/stambul.webp,Stambul,cape,false
+417,1.0,cosmetics/cloaks/palikka1.webp,Palikka,cape,false
+418,1.0,cosmetics/cloaks/holyhcfred.webp,HolyHCF Red,cape,false
+419,1.0,cosmetics/cloaks/holyhcfgold.webp,HolyHCF Gold,cape,false
+420,1.0,cosmetics/cloaks/retirementhome.webp,Retirement Home,cape,false
+421,1.0,cosmetics/cloaks/grapeapplesaucepink.webp,Grapeapplesauce Pink,cape,false
+428,1.0,cosmetics/cloaks/sakura.webp,Sakura,cape,false
+429,1.0,cosmetics/cloaks/faithfulnetworkblue.webp,Faithful Network Blue,cape,false
+430,1.0,cosmetics/cloaks/kiingtongwhite.webp,Kiingtong White,cape,false
+431,1.0,cosmetics/cloaks/kiingtongwhite2.webp,Kiingtong White #2,cape,false
+432,1.0,cosmetics/cloaks/kiingtongwhite3.webp,Kiingtong Eyes,cape,false
+433,1.0,cosmetics/cloaks/gameoflegendsuhc.webp,Game of Legends UHC,cape,false
+434,1.0,frog,Frog Hat,hat,false
+435,1.0,penguin,Penguin Hat,hat,false
+436,1.0,koala,Koala Hat,hat,false
+437,1.0,pig,Pig Hat,hat,false
+438,1.0,lion,Lion Hat,hat,false
+439,1.0,panda,Panda Hat,hat,false
+440,1.0,cosmetics/cloaks/stimpyanimated.webp,Stimpy Animated,cape,true
+441,1.0,cosmetics/cloaks/mcteamsglitch.webp,MCTeams Glitch,cape,false
+442,1.0,cosmetics/cloaks/mcteamsblack.webp,MCTeams Black,cape,false
+443,1.0,cosmetics/cloaks/mcteamsrainbow.webp,MCTeams Rainbow,cape,false
+444,1.0,cosmetics/cloaks/nehnehrose.webp,Neneh UHC Rose,cape,false
+445,1.0,cosmetics/cloaks/nehnehred.webp,Neneh UHC Red,cape,false
+446,1.0,cosmetics/cloaks/nehnehpurple.webp,Neneh UHC Purple,cape,false
+447,1.0,cosmetics/cloaks/nehnehgreen.webp,Neneh UHC Green,cape,false
+448,1.0,cosmetics/cloaks/lunarjackpotblue.webp,Lunar Jackpot Galaxy,cape,false
+449,1.0,cosmetics/cloaks/lunarjackpotblack.webp,Lunar Jackpot Black,cape,false
+450,1.0,cosmetics/cloaks/lunarjuly1.webp,Lunar USA,cape,false
+451,1.0,cosmetics/cloaks/lunarjuly3.webp,Lunar 4th of July,cape,false
+452,1.0,cosmetics/cloaks/lunarjuly2.webp,4th of July Stars,cape,false
+453,1.0,cosmetics/cloaks/lunarsummer1.webp,Lunar Beach,cape,false
+454,1.0,cosmetics/cloaks/lunarsummer2.webp,Lunar Island,cape,false
+455,1.0,cosmetics/cloaks/lunarsummer3.webp,Lunar Flowerpots,cape,false
+456,1.0,cosmetics/cloaks/lunarsummer4.webp,Lunar Icecream,cape,false
+457,1.0,cosmetics/cloaks/lunarsummer5.webp,Lunar Dolphin,cape,false
+458,1.0,cosmetics/cloaks/lunarsummer6.webp,Lunar Popsicle,cape,false
+459,1.0,cosmetics/cloaks/lunarsummer7.webp,Lunar Beach Pail,cape,false
+460,1.0,cosmetics/cloaks/teiko.webp,Teiko,cape,false
+461,1.0,cosmetics/bandannas/supreme.webp,Red Bandanna,hat,false
+462,1.0,cosmetics/bandannas/rainbow.webp,Rainbow Bandanna,hat,false
+463,1.0,cosmetics/cloaks/teamsmap8eotw.webp,Teams Map 8 EOTW,cape,false
+465,1.0,fox,Fox Hat,hat,false
+466,1.0,cosmetics/cloaks/holyhcfyellow.webp,HolyHCF Yellow,cape,false
+467,1.0,cosmetics/bandannas/green_camo.webp,Green Camouflage Bandanna,hat,false
+468,1.0,cosmetics/bandannas/blue_camo.webp,Blue Camouflage Bandanna,hat,false
+469,1.0,cosmetics/bandannas/nestor.webp,xNestorio Bandanna,hat,false
+470,1.0,cosmetics/bandannas/lunarlogobandanna.webp,Anime Bandanna,hat,false
+471,1.0,cosmetics/bandannas/galaxy.webp,Galaxy Bandanna,hat,false
+472,1.0,cosmetics/bandannas/gray_camo.webp,Gray Camouflage Bandanna,hat,false
+473,1.0,cosmetics/bandannas/tigerprints.webp,Tiger Bandanna,hat,false
+474,1.0,cosmetics/bandannas/red_camo.webp,Red Camoflauge Bandanna,hat,false
+475,1.0,cosmetics/bandannas/japanesebandanna.webp,Japan Bandanna,hat,false
+476,1.0,cosmetics/bandannas/southkorea_flag.webp,South Korea Bandanna,hat,false
+478,1.0,cosmetics/cloaks/avery.webp,LOVE Frown,cape,false
+479,1.0,dog,Dog Hat,hat,false
+480,1.0,cosmetics/bandannas/uk_flag.webp,UK Bandanna,hat,false
+481,1.0,cosmetics/bandannas/usa_flag.webp,USA Bandanna,hat,false
+482,1.0,cosmetics/bandannas/vene_flag.webp,Venezuela Bandanna,hat,false
+483,1.0,cosmetics/bandannas/canada_flag.webp,Canada Bandanna,hat,false
+484,0.0,bunnyears,RKY Bunny Ears,hat,false
+485,1.0,cosmetics/cloaks/idiol.webp,Idiol,cape,false
+486,1.0,cosmetics/cloaks/kitmaptourney.webp,KitMap Tourney,cape,false
+487,1.0,cosmetics/cloaks/puxqh.webp,Puxqh UHC,cape,false
+488,1.0,cosmetics/cloaks/swampieanime.webp,Swaump Anime,cape,false
+489,1.0,cosmetics/cloaks/swampiestrawberry.webp,Swaumpie,cape,false
+490,1.0,cosmetics/cloaks/vers.webp,Vers,cape,false
+492,1.0,cosmetics/cloaks/inteledits.webp,IntelEdits,cape,false
+493,1.0,cosmetics/cloaks/buildcloak1.webp,Builder Cloak #1,cape,false
+494,1.0,cosmetics/cloaks/buildcloak2.webp,Builder Cloak #2,cape,false
+495,1.0,cosmetics/cloaks/buildcloak3.webp,Builder Cloak #3,cape,false
+496,1.0,cosmetics/cloaks/watermcblue.webp,WaterMC Blue,cape,false
+497,1.0,cosmetics/cloaks/pyronicred.webp,Pyronic Red,cape,false
+498,1.0,cosmetics/bandannas/vipergreenbandanna.webp,Viper Green Bandanna,hat,false
+499,1.0,cosmetics/bandannas/viperyellowbandanna.webp,Viper Yellow Bandanna,hat,false
+500,1.0,cosmetics/bandannas/viperbluebandanna.webp,Viper Blue Bandanna,hat,false
+501,1.0,cosmetics/cloaks/viperbabygreen.webp,Viper Baby Green,cape,false
+502,1.0,cosmetics/cloaks/viperbabyblue.webp,Viper Baby Blue,cape,false
+503,1.0,cosmetics/cloaks/viperbabyyellow.webp,Viper Baby Yellow,cape,false
+505,1.0,cosmetics/halos/gold_halo.webp,xNestorio Gold Halo,hat,true
+506,1.0,cosmetics/halos/pink_halo.webp,xNestorio Pink Halo,hat,true
+507,1.0,cosmetics/cloaks/allegiance.webp,Allegiance,cape,false
+508,1.0,cosmetics/cloaks/honor.webp,Honor,cape,false
+509,1.0,cosmetics/cloaks/yeetsquad.webp,Yeet Squad,cape,false
+510,1.0,cosmetics/cloaks/pyronicblack.webp,Pyronic Black,cape,false
+511,1.0,cosmetics/cloaks/pyronicredorange.webp,Pyronic Blood Orange,cape,false
+512,1.0,cosmetics/cloaks/aurora.webp,Aurora,cape,false
+518,1.0,cosmetics/masks/galaxymask.webp,Galaxy Mask,hat,false
+519,1.0,cosmetics/cloaks/buildcloak1.webp,Builder Cloak #1,cape,false
+520,1.0,cosmetics/cloaks/buildcloak2.webp,Builder Cloak #2,cape,false
+521,1.0,cosmetics/cloaks/buildcloak3.webp,Builder Cloak #3,cape,false
+522,1.0,cosmetics/bandannas/argentinabandanna.webp,Argentina Bandanna,hat,false
+523,1.0,cosmetics/bandannas/australiabandanna.webp,Australia Bandanna,hat,false
+524,1.0,cosmetics/bandannas/belgiumbandanna.webp,Belgium Bandanna,hat,false
+525,1.0,cosmetics/bandannas/brazilbandanna.webp,Brazil Bandanna,hat,false
+526,1.0,cosmetics/bandannas/calvinbandanna.webp,Calvin Bandanna,hat,false
+527,1.0,cosmetics/bandannas/chilebandanna.webp,Chile Bandanna,hat,false
+528,1.0,cosmetics/bandannas/croatiabandanna.webp,Croatia Bandanna,hat,false
+529,1.0,cosmetics/bandannas/francebandanna.webp,France Bandanna,hat,false
+530,1.0,cosmetics/bandannas/germanybandanna.webp,Germany Bandanna,hat,false
+531,1.0,cosmetics/bandannas/greecebandanna.webp,Greece Bandanna,hat,false
+532,1.0,cosmetics/bandannas/guatemalabandanna.webp,Guatemala Bandanna,hat,false
+533,1.0,cosmetics/bandannas/irelandbandanna.webp,Ireland Bandanna,hat,false
+534,1.0,cosmetics/bandannas/israelbandanna.webp,Israel Bandanna,hat,false
+535,1.0,cosmetics/bandannas/italybandanna.webp,Italy Bandanna,hat,false
+536,1.0,cosmetics/bandannas/lithuaniabandanna.webp,Lithuania Bandanna,hat,false
+537,1.0,cosmetics/bandannas/mexicobandanna.webp,Mexico Bandanna,hat,false
+538,1.0,cosmetics/bandannas/netherlandsbandanna.webp,Netherlands Bandanna,hat,false
+539,1.0,cosmetics/bandannas/newzealandbandanna.webp,New Zealand Bandanna,hat,false
+540,1.0,cosmetics/bandannas/norwaybandanna.webp,Norway Bandanna,hat,false
+541,1.0,cosmetics/bandannas/perubandanna.webp,Peru Bandanna,hat,false
+542,1.0,cosmetics/bandannas/polandbandanna.webp,Poland Bandanna,hat,false
+543,1.0,cosmetics/bandannas/portugalbandanna.webp,Portugal Bandanna,hat,false
+544,1.0,cosmetics/bandannas/russiabandanna.webp,Russia Bandanna,hat,false
+545,1.0,cosmetics/bandannas/serbiabandanna.webp,Serbia Bandanna,hat,false
+546,1.0,cosmetics/bandannas/spainbandanna.webp,Spain Bandanna,hat,false
+547,1.0,cosmetics/bandannas/swedenbandanna.webp,Sweden Bandanna,hat,false
+548,1.0,cosmetics/cloaks/lunarnetworkstore.webp,Lunar Network Store,cape,false
+549,1.0,cosmetics/cloaks/ghostlyflame.webp,Ghostly Network Hokage,cape,false
+550,1.0,cosmetics/cloaks/ghostlystore.webp,Ghostly Network Store,cape,false
+551,1.0,cosmetics/bandannas/scarletorangebandanna.webp,Scarlet Orange Bandanna,hat,false
+552,1.0,cosmetics/bandannas/midnightgraybandanna.webp,Midnight Gray Bandanna,hat,false
+553,1.0,cosmetics/bandannas/raspberrypinkbandanna.webp,Raspberry Pink Bandanna,hat,false
+554,1.0,cosmetics/bandannas/metalicsilverbandanna.webp,Metallic Silver Bandanna,hat,false
+555,1.0,cosmetics/bandannas/babybluelunarbandanna.webp,Baby Blue Bandanna,hat,false
+556,1.0,cosmetics/bandannas/emorsomethingbandanna.webp,EmOrSomething Bandanna,hat,false
+557,1.0,cosmetics/bandannas/suchspeedbandanna.webp,SuchSpeed Bandanna,hat,false
+558,1.0,cosmetics/cloaks/babyblueaugust.webp,Baby Blue,cape,false
+559,1.0,cosmetics/cloaks/emorsomethingcherry.webp,EmOrSomething Cherry,cape,false
+560,1.0,cosmetics/cloaks/metalicsilveraugust.webp,Metallic Silver,cape,false
+561,1.0,cosmetics/cloaks/midnightgrayaugust.webp,Midnight Gray,cape,false
+562,1.0,cosmetics/cloaks/pearlwhiteaugust.webp,Pearl White,cape,false
+563,1.0,cosmetics/cloaks/raspberrypinkaugust.webp,Raspberry Pink,cape,false
+564,1.0,cosmetics/cloaks/scarletorangeaugust.webp,Scarlet Orange,cape,false
+565,1.0,cosmetics/bandannas/pearlwhitebandanna.webp,Pearl White Bandanna,hat,false
+566,0.13,cosmetics/wings/babyblueaugust.webp,Baby Blue Wings,dragon_wings,false
+567,0.13,cosmetics/wings/metalicsilveraugust.webp,Metallic Silver Wings,dragon_wings,false
+568,0.13,cosmetics/wings/pearlwhiteaugust.webp,Pearl White Wings,dragon_wings,false
+569,0.13,cosmetics/wings/raspberrypinkaugust.webp,Raspberry Pink Wings,dragon_wings,false
+570,0.13,cosmetics/wings/scarletorangeaugust.webp,Scarlet Orange Wings,dragon_wings,false
+571,1.0,cosmetics/masks/bluecamomask.webp,Blue Camo Mask,hat,false
+572,1.0,cosmetics/masks/bluesurgicalmask.webp,Light Blue Mask,hat,false
+573,1.0,cosmetics/masks/canadamask.webp,Canada Mask,hat,false
+574,1.0,cosmetics/masks/graycamomask.webp,Gray Camo Mask,hat,false
+575,1.0,cosmetics/masks/greencamomask.webp,Green Camo Mask,hat,false
+576,1.0,cosmetics/masks/japanmask.webp,Japan Mask,hat,false
+577,1.0,cosmetics/masks/lunarredmask.webp,Red Mask,hat,false
+578,1.0,cosmetics/masks/rainbowmask.webp,Rainbow Mask,hat,false
+579,1.0,cosmetics/masks/redcamomask.webp,Red Camo Mask,hat,false
+580,1.0,cosmetics/masks/southkoreamask.webp,South Korea Mask,hat,false
+581,1.0,cosmetics/masks/surgicalmask.webp,White Mask,hat,false
+582,1.0,cosmetics/masks/tigermask.webp,Tiger Mask,hat,false
+583,1.0,cosmetics/masks/ukmask.webp,UK Mask,hat,false
+584,1.0,cosmetics/masks/usamask.webp,USA Mask,hat,false
+585,1.0,cosmetics/masks/venezuelamask.webp,Venezuela Mask,hat,false
+586,1.0,cosmetics/bandannas/graserbandanna.webp,Graser Bandanna,hat,false
+587,0.13,cosmetics/wings/solidblackwings.webp,Solid Black Wings,dragon_wings,false
+588,1.0,cosmetics/bandannas/marcelbandanna.webp,Stimpy Bandanna,hat,false
+589,1.0,cosmetics/cloaks/adviser.webp,Adviser,cape,false
+590,1.0,cosmetics/cloaks/lunarstaffwhite.webp,Lunar Staff White,cape,false
+591,1.0,cosmetics/cloaks/lunarstaffblack.webp,Lunar Staff Black,cape,false
+592,1.0,cosmetics/cloaks/yukiaim.webp,Yuki Aim,cape,false
+593,1.0,cosmetics/cloaks/moonsworth_8.webp,Moonsworth Galaxy,cape,false
+594,1.0,cosmetics/cloaks/specular.webp,Specular,cape,false
+598,1.0,cosmetics/cloaks/speedsilvergold.webp,SpeedSilver Gold,cape,true
+599,1.0,cosmetics/cloaks/speedsilverlightgold.webp,SpeedSilver Light Gold,cape,true
+600,1.0,cosmetics/cloaks/speedsilverrosegold.webp,SpeedSilver Rose Gold,cape,true
+601,1.0,cosmetics/cloaks/rkycake.webp,RKY Cake,cape,false
+604,1.0,cosmetics/bandannas/meezoidbandanna7.webp,MeeZoid Bandanna 7,hat,true
+607,1.0,cosmetics/cloaks/speedsilverrosegold2.webp,SpeedSilver Rose Gold 2,cape,true
+608,1.0,cosmetics/cloaks/speedsilverrosegold.webp,SpeedSilver Gold 2,cape,true
+609,1.0,cosmetics/bandannas/viperbandannablack.webp,Viper Black and Blue Bandanna,hat,false
+610,1.0,cosmetics/cloaks/viperstorecloak1.webp,Viper Store Cloak 1,cape,false
+611,1.0,cosmetics/cloaks/viperstorecloak2.webp,Viper Black and Blue Cloak,cape,false
+612,1.0,cosmetics/cloaks/areumadlol.webp,AreuMadLoL,cape,false
+615,1.0,cosmetics/cloaks/refractionsugar.webp,Refraction Sugar,cape,false
+616,1.0,cosmetics/cloaks/legomaestro.webp,Lego Maestro,cape,false
+617,1.0,cosmetics/cloaks/autumnhedgehog.webp,Autumn Hedgehog,cape,false
+618,1.0,cosmetics/cloaks/autumnorangelogo.webp,Autumn Orange,cape,false
+619,1.0,cosmetics/cloaks/autumnpumpkin.webp,Autumn Pumpkin,cape,false
+620,1.0,cosmetics/cloaks/autumnredlogo.webp,Autumn Red,cape,false
+621,1.0,cosmetics/cloaks/autumnsquirrel.webp,Autumn Squirrel,cape,false
+622,1.0,cosmetics/cloaks/autumnyellow.webp,Autumn Yellow,cape,false
+623,1.0,cosmetics/cloaks/camoblue.webp,Lunar Blue Camo,cape,false
+624,1.0,cosmetics/cloaks/camogray.webp,Lunar Gray Camo,cape,false
+625,1.0,cosmetics/cloaks/camogreen.webp,Lunar Green Camo,cape,false
+626,1.0,cosmetics/cloaks/camored.webp,Lunar Red Camo,cape,false
+627,1.0,cosmetics/cloaks/galaxylogo.webp,Lunar Galaxy,cape,false
+628,1.0,cosmetics/cloaks/redsupreme.webp,Lunar Supreme Red,cape,false
+629,1.0,cosmetics/cloaks/tigerlogo.webp,Lunar Tiger Prints,cape,false
+630,0.13,cosmetics/wings/autumnleaves.webp,Autumn Leaf Wings,dragon_wings,false
+631,0.13,cosmetics/wings/autumnorange.webp,Autumn Orange Wings,dragon_wings,false
+632,0.13,cosmetics/wings/autumnpumpkin.webp,Autumn Pumpkin Wings,dragon_wings,false
+633,0.13,cosmetics/wings/camoblue.webp,Blue Camo Wings,dragon_wings,false
+634,0.13,cosmetics/wings/camogray.webp,Gray Camo Wings,dragon_wings,false
+635,0.13,cosmetics/wings/camogreen.webp,Green Camo Wings,dragon_wings,false
+636,0.13,cosmetics/wings/camored.webp,Red Camo Wings,dragon_wings,false
+637,0.13,cosmetics/wings/galaxy.webp,Galaxy Wings,dragon_wings,false
+638,0.13,cosmetics/wings/redsupreme.webp,Supreme Red,dragon_wings,false
+639,0.13,cosmetics/wings/tiger.webp,Tiger Print Wings,dragon_wings,false
+640,1.0,cosmetics/masks/autumnacorn.webp,Autumn Acorn Mask,hat,false
+641,1.0,cosmetics/masks/autumnhedgehog.webp,Autumn Hedgehog Mask,hat,false
+642,1.0,cosmetics/masks/autumnorange.webp,Autumn Orange Mask,hat,false
+643,1.0,cosmetics/masks/autumnpumpkin.webp,Autumn Pumpkin Mask,hat,false
+644,1.0,cosmetics/masks/autumnred.webp,Autumn Red Mask,hat,false
+645,1.0,cosmetics/masks/autumnyellow.webp,Autumn Yellow Mask,hat,false
+646,1.0,cosmetics/bandannas/autumnhedgehog.webp,Autumn Hedgehog Bandanna,hat,false
+647,1.0,cosmetics/bandannas/autumnorange.webp,Autumn Orange Bandanna,hat,false
+648,1.0,cosmetics/bandannas/autumnpumpkin.webp,Autumn Pumpkin Bandanna,hat,false
+649,1.0,cosmetics/bandannas/autumnred.webp,Autumn Red Bandanna,hat,false
+650,1.0,cosmetics/bandannas/autumnsquirrel.webp,Autumn Squirrel Bandanna,hat,false
+651,1.0,cosmetics/bandannas/autumnyellow.webp,Autumn Yellow Bandanna,hat,false
+652,1.0,cosmetics/bandannas/emorsomethingcherry.webp,EmOrSomething Cherry Bandanna,hat,false
+653,1.0,cosmetics/cloaks/autumntree.webp,Animated Autumn Tree,cape,true
+654,1.0,cosmetics/cloaks/epaxialcamo.webp,Epaxial Camo,cape,false
+655,1.0,cosmetics/cloaks/xnestorioredanimatedrose.webp,xNestorio Animated Red Rose,cape,true
+656,1.0,cosmetics/cloaks/xnestoriopinkanimatedrose.webp,xNestorio Animated Pink Rose,cape,true
+657,1.0,cosmetics/cloaks/xnestorioredrose.webp,xNestorio Red Rose,cape,false
+658,1.0,cosmetics/cloaks/averyanimatedheart.webp,Animated Heart,cape,true
+659,1.0,cosmetics/cloaks/averyheart.webp,Broken Heart,cape,false
+660,1.0,cosmetics/cloaks/notnicosunset.webp,NotNico Sunset,cape,false
+661,1.0,cosmetics/cloaks/s5archer.webp,Season 5 Archer,cape,false
+662,1.0,cosmetics/cloaks/s5axe.webp,Season 5 Axe,cape,false
+663,1.0,cosmetics/cloaks/s5bridges.webp,Season 5 Bridges,cape,false
+664,1.0,cosmetics/cloaks/s5builduhc.webp,Season 5 Build UHC,cape,false
+665,1.0,cosmetics/cloaks/s5debuff.webp,Season 5 Debuff,cape,false
+666,1.0,cosmetics/cloaks/s5global.webp,Season 5 Global,cape,false
+667,1.0,cosmetics/cloaks/s5nodebuff.webp,Season 5 No Debuff,cape,false
+668,1.0,cosmetics/cloaks/s5soup.webp,Season 5 Soup,cape,false
+669,1.0,cosmetics/cloaks/s5vanilla.webp,Season 5 Vanilla,cape,false
+670,1.0,cosmetics/cloaks/zova.webp,Zova,cape,false
+671,1.0,cosmetics/cloaks/krtzyy.webp,Krtzyy,cape,false
+672,1.0,dragon,Dragon Hat,hat,false
+673,1.0,cosmetics/cloaks/megapvpgold.webp,MegaPvP Gold,cape,false
+674,1.0,cosmetics/cloaks/megapvpred.webp,MegaPvP Red,cape,false
+675,1.0,cosmetics/cloaks/rankedbedwars.webp,Competitive Bedwars,cape,false
+676,1.0,cosmetics/cloaks/itzglimpse.webp,ItzGlimpse,cape,true
+677,1.0,cosmetics/cloaks/halloweenanimatedghost.webp,Halloween Animated Ghosts,cape,true
+678,1.0,cosmetics/cloaks/halloweenbats.webp,Halloween Bats,cape,false
+679,1.0,cosmetics/cloaks/halloweenjackolantern.webp,Halloween Animated Jack-o'-lantern,cape,true
+680,1.0,cosmetics/cloaks/halloweenskull.webp,Halloween Skull,cape,false
+681,1.0,cosmetics/cloaks/halloweenspider.webp,Halloween Spider,cape,false
+682,1.0,cosmetics/cloaks/lunarhalloween.webp,Lunar Halloween,cape,false
+683,1.0,cosmetics/cloaks/pixelatedblack.webp,Pixelated Black,cape,false
+684,1.0,cosmetics/cloaks/pixelatedred.webp,Pixelated Red,cape,false
+685,1.0,cosmetics/cloaks/pixelatedgold.webp,Pixelated Gold,cape,false
+686,1.0,cosmetics/cloaks/pixelatedcyan.webp,Pixelated Teal,cape,false
+687,1.0,cosmetics/cloaks/pixelatedpink.webp,Pixelated Pink,cape,false
+688,1.0,cosmetics/cloaks/pixelatedblue.webp,Pixelated Blue,cape,false
+689,1.0,cosmetics/cloaks/pixelatedgreen.webp,Pixelated Green,cape,false
+690,1.0,cosmetics/cloaks/pixelatedpurple.webp,Pixelated Purple,cape,false
+691,1.0,cosmetics/masks/pixelatedredmask.webp,Pixelated Red Mask,hat,false
+692,1.0,cosmetics/masks/pixelatedpurplemask.webp,Pixelated Purple Mask,hat,false
+693,1.0,cosmetics/masks/pixelatedpinkmask.webp,Pixelated Pink Mask,hat,false
+694,1.0,cosmetics/masks/pixelatedgreenmask.webp,Pixelated Green Mask,hat,false
+695,1.0,cosmetics/masks/pixelatedgoldmask.webp,Pixelated Gold Mask,hat,false
+696,1.0,cosmetics/masks/pixelatedcyanmask.webp,Pixelated Teal Mask,hat,false
+697,1.0,cosmetics/masks/pixelatedbluemask.webp,Pixelated Blue Mask,hat,false
+698,1.0,cosmetics/masks/pixelatedblackmask.webp,Pixelated Black Mask,hat,false
+699,1.0,cosmetics/bandannas/animatedghostbandanna.webp,Animated Ghost Bandanna,hat,true
+700,1.0,cosmetics/bandannas/halloweencandybandanna.webp,Halloween Candy Bandanna,hat,false
+701,1.0,cosmetics/bandannas/halloweencemeterybandanna.webp,Halloween Graveyard Bandanna,hat,false
+702,1.0,cosmetics/bandannas/halloweenskullbandanna.webp,Halloween Skull Bandanna,hat,false
+703,1.0,cosmetics/bandannas/halloweenspiderbandanna.webp,Halloween Spider Bandanna,hat,false
+704,1.0,cosmetics/bandannas/pixelatedblackbandanna.webp,Pixelated Black Bandanna,hat,false
+705,1.0,cosmetics/bandannas/pixelatedredbandanna.webp,Pixelated Red Bandanna,hat,false
+706,1.0,cosmetics/bandannas/pixelatedgoldbandanna.webp,Pixelated Gold Bandanna,hat,false
+707,1.0,cosmetics/bandannas/pixelatedbluebandanna.webp,Pixelated Blue Bandanna,hat,false
+708,1.0,cosmetics/bandannas/pixelatedpurplebandanna.webp,Pixelated Purple Bandanna,hat,false
+709,1.0,cosmetics/bandannas/pixelatedcyanbandanna.webp,Pixelated Teal Bandanna,hat,false
+710,1.0,cosmetics/bandannas/pixelatedgreenbandanna.webp,Pixelated Green Bandanna,hat,false
+711,1.0,cosmetics/bandannas/pixelatedpinkbandanna.webp,Pixelated Pink Bandanna,hat,false
+712,0.13,cosmetics/wings/pixelatedredwings.webp,Pixelated Red Wings,dragon_wings,false
+713,0.13,cosmetics/wings/pixelatedgoldwings.webp,Pixelated Gold Wings,dragon_wings,false
+714,0.13,cosmetics/wings/pixelatedpurplewings.webp,Pixelated Purple Wings,dragon_wings,false
+715,0.13,cosmetics/wings/pixelatedpinkwings.webp,Pixelated Pink Wings,dragon_wings,false
+716,0.13,cosmetics/wings/pixelatedcyanwings.webp,Pixelated Teal Wings,dragon_wings,false
+717,0.13,cosmetics/wings/pixelatedgreenwings.webp,Pixelated Green Wings,dragon_wings,false
+718,0.13,cosmetics/wings/pixelatedblackwings.webp,Pixelated Black Wings,dragon_wings,false
+719,0.13,cosmetics/wings/pixelatedbluewings.webp,Pixelated Blue Wings,dragon_wings,false
+720,0.13,cosmetics/wings/halloweenbonewings.webp,Halloween Bone Wings,dragon_wings,false
+721,0.13,cosmetics/wings/halloweendevilwings.webp,Halloween Devil Wings,dragon_wings,false
+722,0.13,cosmetics/wings/halloweenwebwings.webp,Halloween Web Wings,dragon_wings,false
+723,1.0,cosmetics/cloaks/viperautumncloak.webp,Viper Autumn Cloak,cape,false
+724,1.0,cosmetics/cloaks/viperhalloweencloak.webp,Viper Halloween Cloak,cape,false
+725,1.0,cosmetics/bandannas/viperautumnbandanna.webp,Viper Autumn Bandanna,hat,false
+726,1.0,cosmetics/bandannas/viperhalloweenbandanna.webp,Viper Halloween Bandanna,hat,false
+727,1.0,cosmetics/cloaks/lukaipfrog.webp,Lukaip Frog,cape,true
+728,1.0,witch,Witch Hat,hat,false
+729,1.0,pumpkin,Pumpkin Hat,hat,false
+730,1.0,devil_horns,Red Devil Horns,hat,false
+731,1.0,top_hat,Top Hat,hat,false
+732,1.0,spider,Spider Hat,hat,false
+733,1.0,paperbag,Paperbag Hat,hat,false
+734,1.0,knife,Knife On Head,hat,false
+735,1.0,cosmetics/masks/halloween/halloweenjasonmask.webp,Halloween Jason Mask,hat,false
+736,1.0,cosmetics/masks/halloween/halloweenjackolanternmask.webp,Halloween Jack-o'-lantern Mask,hat,false
+737,1.0,cosmetics/masks/halloween/halloweenclownmask.webp,Halloween Clown Mask,hat,false
+738,1.0,cosmetics/masks/halloween/skull_mask.webp,Halloween Skull Mask,hat,false
+739,1.0,crown,Old Crown,hat,false
+740,1.0,cowboy,Cowboy Hat,hat,false
+741,1.0,chef,Chef Hat,hat,false
+742,1.0,enderman,Enderman Hat,hat,false
+743,1.0,wolf,Wolf Hat,hat,false
+746,1.0,legomaestro,Lego_Maestro,hat,false
+747,1.0,cosmetics/cloaks/xnestorioblackpickaxe.webp,xNestorio Black Pickaxe,cape,true
+748,1.0,cosmetics/cloaks/xnestoriostonepickaxe.webp,xNestorio Stone Pickaxe,cape,true
+749,1.0,cosmetics/cloaks/specularsun.webp,Specular Sun,cape,false
+750,1.0,cosmetics/bandannas/xnestoriolavabandanna.webp,xNestorio Lava Bandanna,hat,true
+751,1.0,cosmetics/cloaks/kiingtongevileyes.webp,Kiingtong Evil Eyes,cape,true
+752,1.0,cosmetics/cloaks/manhalswordcloak.webp,Manhal_IQ_ Sword,cape,true
+753,1.0,cosmetics/cloaks/mysteryore.webp,MysteryOre Questionmark,cape,true
+754,1.0,cosmetics/cloaks/xnestoriobluepickaxe.webp,xNestorio Blue Pickaxe,cape,true
+755,1.0,cosmetics/bandannas/mysteryorebandanna.webp,MysteryOre Bandanna,hat,true
+757,1.0,cosmetics/cloaks/emorsomethingmoon.webp,EmOrSomething Moon,cape,true
+758,1.0,cosmetics/cloaks/patroxwarezcross.webp,PatroxWarez Cloak,cape,true
+759,1.0,cosmetics/cloaks/vershaloheart.webp,Vers Halo Heart,cape,true
+760,1.0,cosmetics/cloaks/wispexeanimatedpepe.webp,Wispexe Animated Pepe,cape,true
+761,1.0,cosmetics/cloaks/wispexepeperainbow.webp,Wispexe Animated Rainbow Pepe,cape,true
+762,1.0,cosmetics/bandannas/xnestoriobluebandanna.webp,xNestorio Blue Bandanna,hat,true
+763,1.0,cosmetics/cloaks/itzglimpsewaterfall.webp,ItzGlimpse Waterfall,cape,true
+764,1.0,cosmetics/cloaks/marceldarkanimateddoge.webp,Marcel Animated Night Doge,cape,true
+765,1.0,cosmetics/cloaks/marcellightanimateddoge.webp,Marcel Animated Day Doge,cape,true
+766,1.0,cosmetics/cloaks/marceldarkdoge.webp,Marcel Night Doge,cape,false
+767,1.0,cosmetics/cloaks/marcellightdoge.webp,Marcel Day Doge,cape,false
+768,1.0,cosmetics/cloaks/suchspeedanimatedflame.webp,SuchSpeed Animated Flame,cape,true
+769,1.0,cosmetics/cloaks/animatedbluelunarstars.webp,Animated Blue Lunar,cape,true
+770,1.0,cosmetics/cloaks/animatedchromalogo.webp,Animated Chroma Logo,cape,true
+771,1.0,cosmetics/cloaks/animatedchromaoutlinelogo.webp,Animated Chroma Outline,cape,true
+772,1.0,cosmetics/cloaks/animatedgreenlunarstars.webp,Animated Green Lunar,cape,true
+773,1.0,cosmetics/cloaks/animatedmaroonlunarstars.webp,Animated Maroon Lunar,cape,true
+774,1.0,cosmetics/cloaks/animatedredlunarstars.webp,Animated Red Lunar,cape,true
+775,1.0,cosmetics/cloaks/animatedwhitelunarstars.webp,Animated White Lunar,cape,true
+776,1.0,cosmetics/cloaks/animatedyellowlunarstars.webp,Animated Yellow Lunar,cape,true
+777,1.0,cosmetics/cloaks/blackfriday2020.webp,Black Friday 2020,cape,true
+778,1.0,cosmetics/cloaks/meltdown.webp,Meltdown,cape,false
+779,1.0,cosmetics/cloaks/thanksgivinglunar2020.webp,Lunar Thanksgiving,cape,false
+780,1.0,cosmetics/cloaks/thanksgivingturkey2020.webp,Animated Thanksgiving Turkey,cape,true
+781,1.0,cosmetics/masks/animatedbluelunarstars.webp,Animated Blue Mask,hat,true
+782,1.0,cosmetics/masks/animatedchromastars.webp,Animated Chroma Mask,hat,true
+783,1.0,cosmetics/masks/animatedgreenlunarstars.webp,Animated Green Mask,hat,true
+784,1.0,cosmetics/masks/animatedmaroonlunarstars.webp,Animated Maroon Mask,hat,true
+785,1.0,cosmetics/masks/animatedredlunarstars.webp,Animated Red Mask,hat,true
+786,1.0,cosmetics/masks/animatedwhitelunarstars.webp,Animated White Mask,hat,true
+787,1.0,cosmetics/masks/animatedyellowlunarstars.webp,Animated Yellow Mask,hat,true
+788,1.0,cosmetics/bandannas/animatedbluelunarstars.webp,Animated Blue Bandanna,hat,true
+789,1.0,cosmetics/bandannas/animatedchromastars.webp,Animated Chroma Bandanna,hat,true
+790,1.0,cosmetics/bandannas/animatedgreenlunarstars.webp,Animated Green Bandanna,hat,true
+791,1.0,cosmetics/bandannas/animatedmaroonlunarstars.webp,Animated Maroon Bandanna,hat,true
+792,1.0,cosmetics/bandannas/animatedredlunarstars.webp,Animated Red Bandanna,hat,true
+793,1.0,cosmetics/bandannas/animatedwhitelunarstars.webp,Animated White Bandanna,hat,true
+794,1.0,cosmetics/bandannas/animatedyellowlunarstars.webp,Animated Yellow Bandanna,hat,true
+795,0.13,cosmetics/wings/blackandyellowwings.webp,Black and Yellow Wings,dragon_wings,false
+796,0.13,cosmetics/wings/blackandbluewings.webp,Black and Blue Wings,dragon_wings,false
+797,0.13,cosmetics/wings/chromawings.webp,Chroma Wings,dragon_wings,false
+798,0.13,cosmetics/wings/blackandgreenwings.webp,Black and Green Wings,dragon_wings,false
+799,0.13,cosmetics/wings/blackandmaroonwings.webp,Black and Maroon Wings,dragon_wings,false
+800,0.13,cosmetics/wings/blackandredwings.webp,Black and Red Wings,dragon_wings,false
+801,0.13,cosmetics/wings/blackandwhitewings.webp,Black and White Wings,dragon_wings,false
+802,1.0,cosmetics/cloaks/cheetahhanimated.webp,Cheetahh,cape,true
+803,1.0,cosmetics/cloaks/rkysky.webp,RKY Sky,cape,true
+804,1.0,cosmetics/cloaks/rkybuildings.webp,RKY Animated City,cape,true
+805,1.0,cosmetics/cloaks/lunarcybermonday.webp,Lunar Cyber Monday,cape,true
+806,1.0,cosmetics/cloaks/epaxialanimatedmountain.webp,Epaxial Animated Mountain,cape,true
+807,1.0,pilgrim,Pilgrim,hat,false
+808,1.0,sombrero,Stimpy's Sombrero,hat,false
+809,1.0,cosmetics/cloaks/lunarchampsgold.webp,Lunar Champs Gold,cape,false
+810,1.0,cosmetics/cloaks/lunarchampssilver.webp,Lunar Champs Silver,cape,false
+811,1.0,cosmetics/cloaks/mcucloak.webp,Minecraft Ultimate Cloak,cape,false
+812,1.0,cosmetics/bandannas/mcubandanna.webp,Minecraft Ultimate Bandanna,hat,false
+813,1.0,cosmetics/masks/mcumask.webp,Minecraft Ultimate Mask,hat,false
+814,1.0,cosmetics/cloaks/notnicoblue.webp,NotNico Blue,cape,false
+815,1.0,cosmetics/cloaks/meezoidanimatedmoney.webp,Meezoid Animated Money,cape,true
+816,1.0,cosmetics/cloaks/areumadlolcat.webp,AreuMadLoL Cat,cape,true
+817,1.0,cosmetics/cloaks/adviser999.webp,Adviser 999,cape,true
+818,1.0,cosmetics/cloaks/meezoidmoneypurple.webp,Meezoid Money Purple,cape,true
+819,1.0,cosmetics/cloaks/meezoidmoneygold.webp,Meezoid Money Gold,cape,true
+820,1.0,cosmetics/cloaks/xnestoriosword.webp,xNestorio Animated Sword,cape,true
+821,1.0,cosmetics/bandannas/speedsilverbandanna.webp,SpeedSilver Bandanna,hat,false
+822,1.0,cosmetics/masks/speedsilvermask.webp,SpeedSilver Mask,hat,false
+823,1.0,cosmetics/masks/christmasbluemask.webp,Christmas Blue Mask,hat,false
+824,1.0,cosmetics/masks/christmascandycanemask.webp,Christmas Candy Cane Mask,hat,false
+825,1.0,cosmetics/masks/christmasgreenmask.webp,Christmas Green Mask,hat,false
+826,1.0,cosmetics/masks/christmasredmask.webp,Christmas Red Mask,hat,false
+827,1.0,cosmetics/bandannas/christmas2020bluebandanna.webp,Christmas Blue Bandanna,hat,false
+828,1.0,cosmetics/bandannas/christmas2020gingerbreadbandanna.webp,Christmas Gingerbread Bandanna,hat,false
+829,1.0,cosmetics/bandannas/christmas2020greenbandanna.webp,Christmas Green Bandanna,hat,false
+830,1.0,cosmetics/bandannas/christmas2020redbandanna.webp,Christmas Red Bandanna,hat,false
+831,0.13,cosmetics/wings/christmasbluewings.webp,Christmas Blue Wings,dragon_wings,false
+832,0.13,cosmetics/wings/christmascandycanewings.webp,Christmas Candy Cane Wings,dragon_wings,false
+833,0.13,cosmetics/wings/christmasgreenwings.webp,Christmas Green Wings,dragon_wings,false
+834,0.13,cosmetics/wings/christmasiciclewings.webp,Christmas Icicle Wings,dragon_wings,false
+835,0.13,cosmetics/wings/christmasredwings.webp,Christmas Red Wings,dragon_wings,false
+836,0.13,cosmetics/wings/christmassantawings.webp,Christmas Santa Wings,dragon_wings,false
+837,0.13,cosmetics/wings/christmassnowflakewings.webp,Christmas Snowflake Wings,dragon_wings,false
+838,0.13,cosmetics/wings/christmastreewings.webp,Christmas Tree Wings,dragon_wings,false
+839,1.0,cosmetics/cloaks/christmas2020bell.webp,Christmas Bell,cape,false
+840,1.0,cosmetics/cloaks/christmas2020gingerbread.webp,Gingerbread Man,cape,false
+841,1.0,cosmetics/cloaks/christmas2020lunar.webp,Lunar Christmas 2020,cape,false
+842,1.0,cosmetics/cloaks/christmas2020lunarlights.webp,Animated Lunar Lights,cape,true
+843,1.0,cosmetics/cloaks/christmas2020present.webp,Animated Present,cape,true
+844,1.0,cosmetics/cloaks/christmas2020rudolph.webp,Animated Rudolph,cape,true
+845,1.0,cosmetics/cloaks/christmas2020snowman.webp,Animated Snowman,cape,true
+846,1.0,cosmetics/cloaks/christmas2020tree.webp,Animated Christmas Tree,cape,true
+847,1.0,cosmetics/cloaks/christmas2020winter.webp,Winter Scenary,cape,false
+848,1.0,cosmetics/cloaks/christmas2020wreath.webp,Animated Christmas Wreath,cape,true
+849,1.0,cosmetics/cloaks/legomaestrogold.webp,Lego_Maestro Gold,cape,true
+850,1.0,cosmetics/cloaks/suchspeedlavarock.webp,SuchSpeed Animated Lava,cape,true
+851,1.0,cosmetics/cloaks/verschristmasheart.webp,Vers Christmas Heart,cape,true
+852,1.0,cosmetics/cloaks/krustydavidcloak.webp,KrustyDavid Blue,cape,true
+853,1.0,cosmetics/bandannas/krustydavidbandanna.webp,Krusty David Bandanna,hat,true
+854,1.0,ghast,Ghast Hat,hat,false
+855,1.0,kitten,Kitten Hat,hat,false
+856,1.0,bee,Bee Hat,hat,false
+857,1.0,santa,Santa Hat,hat,false
+858,1.0,antlers,Reindeer Antlers,hat,false
+859,1.0,elf,Elf Hat,hat,false
+860,1.0,chimney,Santa Chimney,hat,false
+861,1.0,xmaslights,Christmas Lights,hat,false
+862,1.0,beard,Santa Beard,hat,false
+863,1.0,cosmetics/masks/christmas2020gingerbreadmask.webp,Gingerbread Man Mask,hat,false
+864,1.0,cosmetics/masks/christmas2020snowmanmask.webp,Snowman Mask,hat,false
+865,1.0,cosmetics/masks/christmas2020snowflakemask.webp,Snowflake Mask,hat,false
+866,1.0,cosmetics/bandannas/christmas2020bellbandanna.webp,Christmas Bell Bandanna,hat,false
+867,1.0,cosmetics/bandannas/christmas2020snowmanbandanna.webp,Snowman Bandanna,hat,false
+868,1.0,cosmetics/bandannas/christmas2020snowflakebandanna.webp,Snowflake Bandanna,hat,false
+869,1.0,cosmetics/cloaks/christmas2020blue.webp,Christmas Blue,cape,false
+870,1.0,cosmetics/cloaks/christmas2020red.webp,Christmas Red,cape,false
+871,1.0,cosmetics/cloaks/christmas2020green.webp,Christmas Green,cape,false
+872,1.0,cosmetics/cloaks/christmas2020candycane.webp,Christmas Candy Cane,cape,false
+873,1.0,cosmetics/masks/christmas2020bellmask.webp,Christmas Bell Mask,hat,false
+874,1.0,cosmetics/halos/redhalo.webp,Animated Red Halo,hat,true
+875,1.0,cosmetics/halos/bluehalo.webp,Animated Blue Halo,hat,true
+876,1.0,cosmetics/halos/greenhalo.webp,Animated Green Halo,hat,true
+877,1.0,cosmetics/cloaks/mcbirkenheart.webp,McBirken Heart,cape,true
+878,1.0,cosmetics/cloaks/meezoidanimateddollar.webp,Meezoid Animated Dollar,cape,true
+879,1.0,nutcracker,Nutcracker Hat,hat,false
+880,1.0,cosmetics/cloaks/vipercandycane.webp,Viper Candycane Cloak,cape,false
+881,1.0,cosmetics/cloaks/viperchristmasblue.webp,Viper Christmas Blue,cape,false
+882,1.0,cosmetics/cloaks/viperchristmasred.webp,Viper Christmas Red,cape,false
+883,1.0,cosmetics/bandannas/vipercandycane.webp,Viper Candy Cane Bandanna,hat,false
+884,1.0,cosmetics/bandannas/viperchristmasred.webp,Viper Christmas Red Bandanna,hat,false
+885,1.0,cosmetics/bandannas/viperchristmasblue.webp,Viper Christmas Blue Bandanna,hat,false
+886,1.0,cosmetics/cloaks/zovapurple.webp,Zova Purple,cape,true
+887,1.0,cosmetics/cloaks/calvinblackstone.webp,Calvin Blackstone,cape,true
+888,1.0,cosmetics/cloaks/calvinnether.webp,Calvin Nether,cape,true
+889,1.0,cosmetics/cloaks/averyloser.webp,Lover x Loser,cape,true
+890,1.0,cosmetics/cloaks/versheartrate.webp,Vers Heartrate,cape,true
+891,1.0,cosmetics/cloaks/marcelnewyearsdoge.webp,Marcel Red New Years Doge,cape,true
+892,1.0,cosmetics/halos/xnestorioblackhalo.webp,xNestorio Black Halo,hat,true
+893,1.0,cosmetics/cloaks/marcelbluenewyearsdoge.webp,Marcel Blue New Years Doge,cape,true
+894,1.0,cosmetics/ties/blue_tie.webp,Blue Tie,bodywear,false
+895,1.0,cosmetics/ties/red_tie.webp,Red Tie,bodywear,false
+896,1.0,cosmetics/ties/green_tie.webp,Green Tie,bodywear,false
+897,1.0,cosmetics/ties/gold_tie.webp,Gold Tie,bodywear,false
+898,1.0,cosmetics/ties/purple_tie.webp,Purple Tie,bodywear,false
+899,1.0,cosmetics/ties/blue_bowtie.webp,Blue Bowtie,bodywear,false
+900,1.0,cosmetics/ties/gold_bowtie.webp,Gold Bowtie,bodywear,false
+901,1.0,cosmetics/ties/green_bowtie.webp,Green Bowtie,bodywear,false
+902,1.0,cosmetics/ties/red_bowtie.webp,Red Bowtie,bodywear,false
+903,1.0,top_hat_newyears,2021 Top Hat,hat,false
+904,1.0,cosmetics/cloaks/lunarclientnewyear2021.webp,Lunar Client New Year 2021,cape,true
+905,1.0,cosmetics/cloaks/2021loading.webp,2021 Loading,cape,true
+906,1.0,cosmetics/cloaks/2021animatedfireworks.webp,2021 Animated Fireworks,cape,true
+907,1.0,cosmetics/cloaks/zyphalopagusstick.webp,Zyphalopagus,cape,true
+908,1.0,cosmetics/cloaks/yuseiredcrow.webp,Yuseifudo Red,cape,true
+909,1.0,cosmetics/masks/citymask.webp,2021 City Mask,hat,false
+910,1.0,cosmetics/masks/partymask.webp,2021 Party Mask,hat,false
+911,1.0,cosmetics/bandannas/partybandanna.webp,2021 Party Bandanna,hat,false
+912,1.0,cosmetics/bandannas/citybandanna.webp,2021 City Bandanna,hat,false
+913,1.0,cosmetics/cloaks/lunarstaffholidays.webp,Lunar Network Staff Holidays,cape,true
+914,1.0,cosmetics/cloaks/blacktiltedlogocloak.webp,Slanted Black Lunar,cape,false
+915,1.0,cosmetics/cloaks/bluetiltedlogocloak.webp,Slanted Blue Lunar,cape,false
+916,1.0,cosmetics/cloaks/greentiltedlogocloak.webp,Slanted Green Lunar,cape,false
+917,1.0,cosmetics/cloaks/orangetiltedlogocloak.webp,Slanted Orange Lunar,cape,false
+918,1.0,cosmetics/cloaks/redtiltedlogocloak.webp,Slanted Red Lunar,cape,false
+919,1.0,cosmetics/cloaks/purpletiltedlogocloak.webp,Slanted Purple Lunar,cape,false
+920,1.0,cosmetics/cloaks/whitetiltedlogocloak.webp,Slanted White Lunar,cape,false
+921,1.0,cosmetics/cloaks/yellowtiltedlogocloak.webp,Slanted Yellow Lunar,cape,false
+922,1.0,cosmetics/bandannas/blacktiltedlogobandanna.webp,Slanted Black Lunar Bandanna,hat,false
+923,1.0,cosmetics/bandannas/bluetiltedlogobandanna.webp,Slanted Blue Lunar Bandanna,hat,false
+924,1.0,cosmetics/bandannas/greentiltedlogobandanna.webp,Slanted Green Lunar Bandanna,hat,false
+925,1.0,cosmetics/bandannas/orangetiltedlogobandanna.webp,Slanted Orange Lunar Bandanna,hat,false
+926,1.0,cosmetics/bandannas/purpletiltedlogobandanna.webp,Slanted Purple Lunar Bandanna,hat,false
+927,1.0,cosmetics/bandannas/redtiltedlogobandanna.webp,Slanted Red Lunar Bandanna,hat,false
+928,1.0,cosmetics/bandannas/whitetiltedlogobandanna.webp,Slanted White Lunar Bandanna,hat,false
+929,1.0,cosmetics/bandannas/yellowtiltedlogobandanna.webp,Slanted Yellow Lunar Bandanna,hat,false
+930,1.0,cosmetics/masks/blacktiltedlogomask.webp,Slanted Black Lunar Mask,hat,false
+931,1.0,cosmetics/masks/bluetiltedlogomask.webp,Slanted Blue Lunar Mask,hat,false
+932,1.0,cosmetics/masks/greentiltedlogomask.webp,Slanted Green Lunar Mask,hat,false
+933,1.0,cosmetics/masks/orangetiltedlogomask.webp,Slanted Orange Lunar Mask,hat,false
+934,1.0,cosmetics/masks/purpletiltedlogomask.webp,Slanted Purple Lunar Mask,hat,false
+935,1.0,cosmetics/masks/redtiltedlogomask.webp,Slanted Red Lunar Mask,hat,false
+936,1.0,cosmetics/masks/whitetiltedlogomask.webp,Slanted White Lunar Mask,hat,false
+938,1.0,cosmetics/masks/yellowtiltedlogomask.webp,Slanted Yellow Lunar Mask,hat,false
+939,0.13,cosmetics/wings/lapisbluewings.webp,Lapis Blue Wings,dragon_wings,false
+940,0.13,cosmetics/wings/ravenblackwings.webp,Raven Black Wings,dragon_wings,false
+941,0.13,cosmetics/wings/fireorangewings.webp,Fire Orange Wings,dragon_wings,false
+942,0.13,cosmetics/wings/crimsonredwings.webp,Crimson Red Wings,dragon_wings,false
+943,0.13,cosmetics/wings/cyberyellowings.webp,Cyber Yellow Wings,dragon_wings,false
+944,0.13,cosmetics/wings/forestgreenwings.webp,Forest Green Wings,dragon_wings,false
+945,0.13,cosmetics/wings/cloudwhitewings.webp,Cloud White Wings,dragon_wings,false
+946,0.13,cosmetics/wings/royalpurplewings.webp,Royal Purple Wings,dragon_wings,false
+947,1.0,cosmetics/cloaks/meezoidwhitedollar.webp,MeeZoid White and Gold Dollar,cape,true
+948,1.0,cosmetics/cloaks/meezoidblackdollar.webp,MeeZoid Animated Money Printer,cape,true
+949,1.0,cosmetics/cloaks/shadowappleanimatedapple.webp,ShadowApples Chroma Apple,cape,true
+950,1.0,cosmetics/cloaks/shadowapplesanimatedsword.webp,ShadowApples Chroma Sword,cape,true
+951,1.0,cosmetics/cloaks/shadowappleanimatedtotem.webp,ShadowApples Chroma Totem,cape,true
+952,1.0,cosmetics/cloaks/itzglimpseyinyang.webp,ItzGlimpse Yin & Yang,cape,false
+953,1.0,cosmetics/cloaks/mcyumtetris.webp,Mcyum Tetris,cape,true
+954,1.0,cosmetics/cloaks/wintertree.webp,Winter 2020 Tree,cape,false
+955,1.0,cosmetics/cloaks/winterhat.webp,Winter 2020 Hat,cape,false
+956,1.0,cosmetics/cloaks/winterpenguin.webp,Animated Penguin,cape,true
+957,1.0,cosmetics/cloaks/suchspeedsword.webp,SuchSpeed Blue Sword,cape,true
+964,1.0,cosmetics/cloaks/wintertree.webp,Winter 2020 Tree,cape,false
+965,1.0,cosmetics/cloaks/xnestoriostarrynightcloak.webp,xNestorio Starry Night Cloak,cape,true
+966,1.0,cosmetics/bandannas/xnestoriostarrynightbandanna.webp,xNestorio Starry Night Bandanna,hat,true
+967,1.0,cosmetics/cloaks/swampiedragon.webp,Swaumpie Dragon,cape,true
+968,1.0,cosmetics/bandannas/krustydavidredbandanna.webp,krustydavid Red Bandanna,hat,true
+969,1.0,cosmetics/bandannas/krustydavidpurplebandanna.webp,krustydavid Purple Bandanna,hat,true
+970,1.0,cosmetics/bandannas/astelicbluebandanna.webp,Astelic Blue Bandanna,hat,true
+971,1.0,cosmetics/bandannas/astelicpinkbandanna.webp,Astelic Pink Bandanna,hat,true
+972,1.0,cosmetics/cloaks/astelicpinkmoon.webp,Astelic Pink Moon,cape,true
+973,1.0,cosmetics/cloaks/astelicbluemoon.webp,Astelic Blue Moon,cape,true
+974,1.0,cosmetics/cloaks/krustydavidred.webp,krustydavid Red,cape,true
+975,1.0,cosmetics/cloaks/krustydavidpurple.webp,krustydavid Purple,cape,true
+976,1.0,cosmetics/cloaks/emorsomethinghearts.webp,EmOrSomething Pink Hearts,cape,true
+977,1.0,cosmetics/cloaks/emorsomethinganimatedrose.webp,EmOrSomething Animated Rose,cape,true
+978,1.0,cosmetics/cloaks/emorsomethinganimatedcherry.webp,EmOrSomething Animated Cherry,cape,true
+979,1.0,cosmetics/cloaks/emorsomethingredhearts.webp,EmOrSomething Red Hearts,cape,true
+980,1.0,cosmetics/bandannas/krustydavidpinkbandanna.webp,krustydavid Pink Bandanna,hat,true
+981,1.0,cosmetics/cloaks/krustydavidpink.webp,krustydavid Pink,cape,true
+982,1.0,cosmetics/cloaks/mcblockdaily.webp,MC Block Daily,cape,false
+983,1.0,cosmetics/cloaks/luvonox.webp,Luvonox,cape,false
+984,1.0,cosmetics/cloaks/itzglimpsered.webp,ItzGlimpse Red,cape,false
+985,1.0,cosmetics/bandannas/itzglimpsebandanna.webp,ItzGlimpse Bandanna,hat,false
+986,1.0,cosmetics/cloaks/albypromagna.webp,AlbyPro Magma,cape,false
+987,1.0,cosmetics/cloaks/idiolturtle.webp,Idiol Turtle,cape,false
+988,1.0,cosmetics/cloaks/punzgold.webp,Punz Animated Gold,cape,true
+989,1.0,cosmetics/cloaks/punzbee.webp,Punz Animated Bee,cape,true
+990,1.0,cosmetics/cloaks/kiingtonggg.webp,Kiingtong GG,cape,false
+991,1.0,cosmetics/cloaks/kiingtongclappedred.webp,Kiingtong Red Clapped,cape,false
+992,1.0,cosmetics/cloaks/kiingtonglred.webp,Kiingtong Red L,cape,false
+993,1.0,cosmetics/cloaks/kiingtongezcalppedwhite.webp,Kiingtong Ez Clapped,cape,false
+994,1.0,cosmetics/cloaks/kiingtongezdubred.webp,Kiingtong Red Ez Dub,cape,false
+996,1.0,cosmetics/masks/xnestoriostarrymask.webp,xNestorio Starry Nights Mask,hat,true
+997,1.0,cosmetics/cloaks/veltpvp.webp,VeltPvP,cape,false
+998,1.0,cosmetics/cloaks/shyaiblue.webp,Shyai Blue,cape,true
+999,1.0,cosmetics/bandannas/inteleditsbandanna.webp,IntelEdits Bandanna,hat,true
+1000,1.0,cosmetics/cloaks/idiolglitched.webp,Idiol Glitched Cross,cape,true
+1001,1.0,cosmetics/cloaks/ghostlynetworkanimated.webp,Ghostly Network Animated,cape,true
+1002,1.0,cosmetics/cloaks/versglitched.webp,Vers Glitched,cape,true
+1003,1.0,cosmetics/cloaks/rankedbedwarswhite.webp,Ranked Bedwars White,cape,false
+1004,1.0,cosmetics/bandannas/cupidheartbandanna.webp,Valentines Cupid Heart Bandanna,hat,false
+1005,1.0,cosmetics/bandannas/lovebearbandanna.webp,Valentines Love Bear Bandanna,hat,false
+1007,1.0,cosmetics/bandannas/lunarblackgalaxybandanna.webp,Lunar Black Galaxy Bandanna,hat,true
+1008,1.0,cosmetics/bandannas/lunarbluegalaxybandanna.webp,Lunar Blue Galaxy Bandanna,hat,true
+1009,1.0,cosmetics/bandannas/lunargalaxybandannarainbow.webp,Lunar Rainbow Galaxy Bandanna,hat,true
+1010,1.0,cosmetics/bandannas/lunarorangegalaxybandanna.webp,Lunar Orange Galaxy Bandanna,hat,true
+1011,1.0,cosmetics/bandannas/lunarpurplebandanna.webp,Lunar Purple Galaxy Bandanna,hat,true
+1012,1.0,cosmetics/bandannas/lunarredgalaxybandanna.webp,Lunar Red Galaxy Bandanna,hat,true
+1013,1.0,cosmetics/bandannas/pinkheartsbandanna.webp,Valentines Pink Hearts Bandanna,hat,false
+1014,1.0,cosmetics/bandannas/rainbowheartsbandanna.webp,Valentines RGB Hearts Bandanna,hat,true
+1015,1.0,cosmetics/bandannas/xoxobandanna.webp,Valentines xoxo Bandanna,hat,false
+1016,1.0,cosmetics/cloaks/lunarblackgalaxy.webp,Lunar Black Galaxy,cape,true
+1017,1.0,cosmetics/cloaks/lunarbluegalaxy.webp,Lunar Blue Galaxy,cape,true
+1018,1.0,cosmetics/cloaks/lunarorangegalaxy.webp,Lunar Orange Galaxy,cape,true
+1019,1.0,cosmetics/cloaks/lunarpurplegalaxy.webp,Lunar Purple Galaxy,cape,true
+1020,1.0,cosmetics/cloaks/lunarrainbowgalaxy.webp,Lunar Rainbow Galaxy,cape,true
+1021,1.0,cosmetics/cloaks/lunarredgalaxy.webp,Lunar Red Galaxy,cape,true
+1022,1.0,cosmetics/cloaks/valeintes2021queen.webp,Valentines Queen of Hearts,cape,false
+1023,1.0,cosmetics/cloaks/valentines2021bear.webp,Valentines Love Bear,cape,false
+1024,1.0,cosmetics/cloaks/valentines2021cupidheart.webp,Valentines Cupid Heart,cape,false
+1025,1.0,cosmetics/cloaks/valentines2021hearts.webp,Valentines Pink Hearts,cape,false
+1026,1.0,cosmetics/cloaks/valentines2021king.webp,Valentines King of Hearts,cape,false
+1027,1.0,cosmetics/cloaks/valentines2021lock.webp,Valentines Locked Heart,cape,true
+1028,1.0,cosmetics/cloaks/valentines2021lovepattern.webp,Valentines Love Pattern,cape,false
+1029,1.0,cosmetics/cloaks/valentines2021lunarcupid.webp,Valentines Lunar Cupid,cape,false
+1030,1.0,cosmetics/cloaks/valentines2021pinkhearts.webp,Valentines Lunar Pink,cape,false
+1031,1.0,cosmetics/cloaks/valentines2021redheart.webp,Valentines Red Heart,cape,false
+1032,1.0,cosmetics/cloaks/valentines2021xoxo.webp,Valentines xoxo,cape,false
+1033,1.0,cosmetics/masks/cupidheartmask.webp,Valentines Cupid Heart Mask,hat,false
+1034,1.0,cosmetics/masks/lovebearmask.webp,Valentines Love Bear Mask,hat,false
+1035,1.0,cosmetics/masks/lunargalaxyblackmask.webp,Lunar Black Galaxy Mask,hat,true
+1037,1.0,cosmetics/masks/lunargalaxypurplemask.webp,Lunar Purple Galaxy Mask,hat,true
+1038,1.0,cosmetics/masks/lunargalaxyrainbowmask.webp,Lunar Rainbow Galaxy Mask,hat,true
+1039,1.0,cosmetics/masks/lunarorangegalaxymask.webp,Lunar Orange Galaxy Mask,hat,true
+1040,1.0,cosmetics/masks/lunarredgalaxymask.webp,Lunar Red Galaxy Mask,hat,true
+1041,1.0,cosmetics/masks/pinkheartsmask.webp,Valentines Pink Hearts Mask,hat,false
+1042,1.0,cosmetics/masks/rainbowheartsmask.webp,Valentines RBG Mask,hat,true
+1043,1.0,cosmetics/masks/xoxomask.webp,Valentines xoxo Mask,hat,false
+1044,0.13,cosmetics/wings/blackandpinkhearts.webp,Light Pink Hearts Wings,dragon_wings,false
+1045,0.13,cosmetics/wings/blackcandyhearts.webp,Black and White Candy Wings,dragon_wings,false
+1046,0.13,cosmetics/wings/blackgalaxywings.webp,Black Galaxy Wings,dragon_wings,false
+1047,0.13,cosmetics/wings/bluegalaxywings.webp,Blue Galaxy Wings,dragon_wings,false
+1048,0.13,cosmetics/wings/customheartwings.webp,Pink Heart Wings,dragon_wings,false
+1049,0.13,cosmetics/wings/orangegalaxywings.webp,Orange Galaxy Wings,dragon_wings,false
+1050,0.13,cosmetics/wings/pinkcherryblossom.webp,Cherry Blossom Wings,dragon_wings,false
+1051,0.13,cosmetics/wings/pinkglowwings.webp,Pink Glow Wings,dragon_wings,false
+1052,0.13,cosmetics/wings/pixelheartwings.webp,Pixelated Heart Wings,dragon_wings,false
+1053,0.13,cosmetics/wings/purplegalaxywings.webp,Purple Galaxy Wings,dragon_wings,false
+1054,0.13,cosmetics/wings/rainbowgalaxywings.webp,Rainbow Galaxy Wings,dragon_wings,false
+1055,0.13,cosmetics/wings/redandblackheartwings.webp,Black and Red Hearts Wings,dragon_wings,false
+1056,0.13,cosmetics/wings/redgalaxywings.webp,Red Galaxy Wings,dragon_wings,false
+1057,0.13,cosmetics/wings/redglowwings.webp,Red Glow Wings,dragon_wings,false
+1058,0.13,cosmetics/wings/redheartwings.webp,Red Hearts Wings,dragon_wings,false
+1059,0.13,cosmetics/wings/whitecandyhearts.webp,White Candy Wings,dragon_wings,false
+1060,1.0,cosmetics/cloaks/vipervalentinecloak.webp,Viper Valentines Cloak,cape,false
+1061,1.0,cosmetics/bandannas/vipervalentinebandanna.webp,Viper Valentines Bandanna,hat,false
+1062,1.0,cosmetics/cloaks/krtzyymoonscape.webp,Krtzyy Moonscape,cape,false
+1063,1.0,cosmetics/cloaks/notnicoredsunset.webp,NotNico Red Sunset,cape,true
+1064,1.0,cosmetics/bandannas/notnicoredsunsetbandanna.webp,NotNico Red Sunset Bandanna,hat,true
+1065,1.0,cosmetics/halos/valentinesblackhalo.webp,Valentines Black Halo,hat,false
+1066,1.0,cosmetics/halos/valentinespinkhalo.webp,Valentines Pink Halo,hat,true
+1067,1.0,cosmetics/halos/valentinesheartshalo.webp,Valentines Hearts Halo,hat,false
+1068,1.0,cosmetics/halos/valentineswhitehalo.webp,Valentines White Halo,hat,true
+1069,1.0,cosmetics/masks/lunargalaxybluemask.webp,Lunar Blue Galaxy Mask,hat,true
+1070,1.0,cosmetics/cloaks/shotbowcloak.webp,Shotbow Cloak,cape,false
+1072,1.0,cat_ears,EmOrSomething Cat Ears,hat,false
+1074,1.0,heartband,Heart Band,hat,false
+1075,1.0,cosmetics/headsets/blackheadset.webp,Black Headset,hat,true
+1076,1.0,cosmetics/headsets/headset.webp,Default Headset,hat,false
+1077,1.0,cosmetics/headsets/whiteheadset.webp,White Headset,hat,true
+1078,1.0,cosmetics/headsets/redheadset.webp,Red Headset,hat,true
+1080,1.0,cosmetics/ties/blackvalentine_bowtie.webp,Red Hearts Bowtie,bodywear,false
+1081,1.0,cosmetics/ties/cupidheartvalentine_bowtie.webp,Cupid Heart Bowtie,bodywear,false
+1082,1.0,cosmetics/ties/xoxovalentine_bowtie.webp,xoxo Bowtie,bodywear,false
+1083,1.0,cosmetics/ties/pinkheartsvalentine_bowtie.webp,Pink Hearts Bowtie,bodywear,false
+1084,1.0,cosmetics/ties/lightpinkvalentine_bowtie.webp,Light Pink Bowtie,bodywear,false
+1085,1.0,cosmetics/ties/redvalentine_bowtie.webp,Red Valentines Bowtie,bodywear,false
+1086,1.0,cosmetics/cloaks/megapvppinklandscape.webp,MegaPvP Pink Landscape,cape,true
+1087,1.0,cosmetics/cloaks/megapvpnightsky.webp,MegaPvP Night Sky,cape,true
+1088,1.0,cosmetics/cloaks/boomerpond.webp,Boomer Pond,cape,true
+1089,1.0,cosmetics/bandannas/versglitchedbandanna.webp,Vers Glitched Bandanna,hat,true
+1090,1.0,cosmetics/cloaks/b0mbiesbear.webp,B0MBIES Bears,cape,true
+1092,1.0,cosmetics/cloaks/i3rother.webp,I3rother,cape,true
+1093,1.0,cosmetics/cloaks/graserelectricshock.webp,Graser Animated Shock,cape,true
+1094,1.0,cosmetics/cloaks/gamerboy80eyes.webp,gamerboy80 Eyes,cape,true
+1095,1.0,cosmetics/cloaks/gamerboy8lightning.webp,gamerboy80 Lightning,cape,true
+1096,1.0,cosmetics/bandannas/manhaliqredbandanna.webp,Manhal_IQ_ Red Bandanna,hat,false
+1097,1.0,cosmetics/catears/cat_tiger.webp,Tiger Kitten Ears,hat,false
+1098,1.0,cosmetics/catears/cat_blackcat.webp,Black Kitten Ears,hat,false
+1099,1.0,cosmetics/catears/cat_leopard.webp,Leopard Kitten Ears,hat,false
+1100,1.0,cosmetics/catears/cat_greytabby.webp,Gray Kitten Ears,hat,false
+1101,1.0,cosmetics/catears/cat_gingertabby.webp,Ginger Kitten Ears,hat,false
+1102,1.0,cosmetics/cloaks/bombiesnightbears.webp,Bombies Night Bears,cape,true
+1103,1.0,cosmetics/cloaks/lunarclientstaff2.webp,Lunar Client Staff,cape,false
+1104,1.0,cosmetics/cloaks/mrjagsterspanda.webp,MrJagsterS Panda,cape,true
+1105,1.0,cosmetics/cloaks/zovawatchtower.webp,Zova Watch Tower,cape,true
+1106,1.0,cosmetics/bandannas/zovawatchtowerbandanna.webp,Zova Watch Tower Bandanna,hat,true
+1107,1.0,cosmetics/masks/emorsomethingrosemask.webp,EmOrSomething Rose Mask,hat,false
+1108,1.0,cosmetics/cloaks/versdrippingface.webp,Vers Dripping Face,cape,true
+1109,1.0,black_devil_horns,Black Devil Horns,hat,false
+1110,1.0,cosmetics/bandannas/neonblueyellowbandanna.webp,Blue & Yellow Neon Bandanna,hat,true
+1111,1.0,cosmetics/bandannas/neonorangeredbandanna.webp,Orange & Red Neon Bandanna,hat,true
+1112,1.0,cosmetics/bandannas/neonpinkbluebandanna.webp,Pink & Blue Neon Bandanna,hat,true
+1113,1.0,cosmetics/bandannas/neonpurpleorangebandanna.webp,Purple & Orange Neon Bandanna,hat,true
+1114,1.0,cosmetics/bandannas/neonredgreenbandanna.webp,Red & Green Neon Bandanna,hat,true
+1115,1.0,cosmetics/cloaks/neonblueyellowcloak.webp,Blue & Yellow Neon Cloak,cape,true
+1116,1.0,cosmetics/cloaks/neonorangeredcloak.webp,Orange & Red Neon Cloak,cape,true
+1117,1.0,cosmetics/cloaks/neonpinkbluecloak.webp,Pink & Blue Neon Cloak,cape,true
+1118,1.0,cosmetics/cloaks/neonpurpleorangecloak.webp,Purple & Orange Neon Cloak,cape,true
+1119,1.0,cosmetics/cloaks/neonredgreencloak.webp,Red & Green Neon Cloak,cape,true
+1120,0.13,cosmetics/wings/neonblueyellowwings.webp,Blue & Yellow Neon Wings,dragon_wings,false
+1121,0.13,cosmetics/wings/neonorangeredwings.webp,Orange & Red Neon Wings,dragon_wings,false
+1122,0.13,cosmetics/wings/neonpinkbluewings.webp,Pink & Blue Neon Wings,dragon_wings,false
+1123,0.13,cosmetics/wings/neonpurpleorangewings.webp,Purple & Orange Neon Wings,dragon_wings,false
+1124,0.13,cosmetics/wings/neonredgreenwings.webp,Red & Green Neon Wings,dragon_wings,false
+1125,1.0,cosmetics/masks/halloween/neonblueyellowfullmask.webp,Blue & Yellow Skull Mask,hat,true
+1126,1.0,cosmetics/masks/halloween/neonorangeredfullmask.webp,Orange & Red Skull Mask,hat,true
+1127,1.0,cosmetics/masks/halloween/neonpinkbluefullmask.webp,Pink & Blue Skull Mask,hat,true
+1128,1.0,cosmetics/masks/halloween/neonpurpleorangefullmask.webp,Purple & Orange Skull Mask,hat,true
+1129,1.0,cosmetics/masks/halloween/neonredgreenfullmask.webp,Red & Green Skull Mask,hat,true
+1130,1.0,cosmetics/masks/neonblueyellowmask.webp,Blue & Yellow Neon Mask,hat,true
+1131,1.0,cosmetics/masks/neonorangeredmask.webp,Orange & Red Neon Mask,hat,true
+1132,1.0,cosmetics/masks/neonpinkbluemask.webp,Pink & Blue Neon Mask,hat,true
+1133,1.0,cosmetics/masks/neonpurpleorangemask.webp,Purple & Orange Neon Mask,hat,true
+1134,1.0,cosmetics/masks/neonredgreenmask.webp,Red & Green Neon Mask,hat,true
+1135,1.0,cosmetics/bandannas/grapeapplesauceapplebandana.webp,Grapeapplesauce Apple Bandanna,hat,true
+1136,1.0,cosmetics/bandannas/grapeapplesaucepotionbandanna.webp,Grapeapplesauce Potion Bandanna,hat,true
+1137,1.0,cosmetics/cloaks/grapeapplesauceanimatedapple.webp,Grapeapplesauce Animated Apple,cape,true
+1138,1.0,cosmetics/cloaks/grapeapplesaucepotioncloak.webp,Grapeapplesauce Animated Potion,cape,true
+1139,1.0,cosmetics/cloaks/lctesterred.webp,Lunar Client Testers Red,cape,false
+1140,1.0,cosmetics/cloaks/captainpuffyrainbow.webp,CaptainPuffy Rainbow,cape,true
+1141,1.0,geckolib_cosmetics/hats/example_hat.json,Geckolib Test Hat 1,geckolib_hat,false
+1142,0.13,cosmetics/wings/springbutterflyaqua.webp,Butterfly Aqua Wings,dragon_wings,false
+1143,0.13,cosmetics/wings/springbutterflyorange.webp,Butterfly Orange Wings,dragon_wings,false
+1144,0.13,cosmetics/wings/springbutterflypink.webp,Butterfly Pink Wings,dragon_wings,false
+1145,0.13,cosmetics/wings/springdaisy.webp,Daisy Wings,dragon_wings,false
+1146,0.13,cosmetics/wings/springhoneycomb.webp,Honeycomb Wings,dragon_wings,false
+1147,0.13,cosmetics/wings/springbutterflypurple.webp,Butterfly Purple Wings,dragon_wings,false
+1149,1.0,cosmetics/masks/springbunnymask.webp,Spring Bunny Mask,hat,true
+1150,1.0,cosmetics/masks/springbeesmask.webp,Spring Bees Mask,hat,true
+1151,1.0,cosmetics/masks/springbutterflymask.webp,Spring Butterfly Mask,hat,true
+1152,1.0,cosmetics/masks/springcarrotmask.webp,Spring Carrot Mask,hat,false
+1153,1.0,cosmetics/masks/springdaisymask.webp,Spring Daisy Mask,hat,false
+1155,1.0,cosmetics/masks/colorfulpimask.webp,Colorful Pi Mask,hat,false
+1156,1.0,cosmetics/masks/greenpimask.webp,Green Pi Mask,hat,true
+1157,1.0,cosmetics/bandannas/springbunnybandanna.webp,Spring Bunny Bandanna,hat,true
+1158,1.0,cosmetics/bandannas/springbeesbandanna.webp,Spring Bees Bandanna,hat,true
+1159,1.0,cosmetics/bandannas/springbutterflybandanna.webp,Spring Butterfly Bandanna,hat,true
+1160,1.0,cosmetics/bandannas/springcarrotbandanna.webp,Spring Carrot Bandanna,hat,false
+1161,1.0,cosmetics/bandannas/springdaisybandanna.webp,Spring Daisy Bandanna,hat,false
+1162,1.0,cosmetics/bandannas/colorfulpibandanna.webp,Colorful Pi Bandanna,hat,false
+1163,1.0,cosmetics/bandannas/greenpibandanna.webp,Green Pi Bandanna,hat,true
+1165,1.0,cosmetics/cloaks/springbunnycloak.webp,Spring Bunny Cloak,cape,true
+1166,1.0,cosmetics/cloaks/springbusybees.webp,Spring Bees Cloak,cape,true
+1167,1.0,cosmetics/cloaks/springflower.webp,Spring Flower Cloak,cape,true
+1168,1.0,cosmetics/cloaks/springbutterfly.webp,Spring Butterfly Cloak,cape,true
+1169,1.0,cosmetics/cloaks/lunarspringflowers.webp,Lunar Spring Flowers,cape,true
+1170,1.0,cosmetics/cloaks/lunarspringterrain.webp,Lunar Spring Terrain,cape,false
+1171,1.0,cosmetics/cloaks/cherrypicloak.webp,Cherry Pi Cloak,cape,false
+1172,1.0,cosmetics/cloaks/glitchedpicloak.webp,Glitched Pi Cloak,cape,true
+1173,1.0,cosmetics/cloaks/colorfulpicloak.webp,Colorful Pi Cloak,cape,false
+1174,1.0,cosmetics/cloaks/springrainyday.webp,Spring Rainy Day,cape,true
+1175,1.0,cosmetics/halos/pinkdaisyhalo.webp,Pink Daisy Halo,hat,true
+1176,1.0,cosmetics/halos/whitedaisyhalo.webp,White Daisy Halo,hat,true
+1177,1.0,cosmetics/halos/yellowdaisyhalo.webp,Yellow Daisy Halo,hat,true
+1178,1.0,cosmetics/halos/xnestoriowhitehalo.webp,xNestorio Animated White Halo,hat,true
+1179,1.0,cosmetics/catears/cat_pink.webp,Pink Kitten Ears,hat,false
+1180,1.0,cosmetics/bandannas/aceofclubsbandana.webp,Ace of Clubs Bandanna,hat,false
+1181,1.0,cosmetics/bandannas/blackpibandanna.webp,Black Pi Bandanna,hat,false
+1182,1.0,cosmetics/bandannas/potofgoldbandana.webp,Pot of Gold Bandanna,hat,true
+1183,1.0,cosmetics/bandannas/shamrockflagbandana.webp,Shamrock Flag Bandanna,hat,false
+1184,1.0,cosmetics/bandannas/whitepibandanna.webp,White Pi Bandanna,hat,false
+1185,1.0,cosmetics/cloaks/aceofclubs.webp,Ace of Clubs Cloak,cape,false
+1186,1.0,cosmetics/cloaks/lightgreenlunarclover.webp,Lunar Clovers,cape,false
+1187,1.0,cosmetics/cloaks/potofgold.webp,Pot of Gold,cape,true
+1188,1.0,cosmetics/cloaks/shamrockflag.webp,Shamrock Flag,cape,false
+1189,1.0,cosmetics/masks/aceofclubsmask.webp,Ace of Clubs Mask,hat,false
+1190,1.0,cosmetics/masks/blackpimask.webp,Black Pi Mask,hat,false
+1191,1.0,cosmetics/masks/potofgoldmask.webp,Pot of Gold Mask,hat,true
+1192,1.0,cosmetics/masks/shamrockflagmask.webp,Shamrock Flag Mask,hat,false
+1193,1.0,cosmetics/masks/whitepimask.webp,White Pi Mask,hat,false
+1194,1.0,beard_stpatrick,St Patrick's Beard,hat,false
+1195,1.0,potofgold,Pot of Gold,hat,false
+1196,1.0,cloverheadband,Clover Headband,hat,false
+1197,1.0,cosmetics/tophats/tophat_stpatrick.webp,St Patrick's Top Hat,hat,false
+1198,1.0,cosmetics/ties/irishflag_bowtie.webp,Irish Flag Bowtie,bodywear,false
+1199,1.0,cosmetics/ties/cloverstripes_tie.webp,Striped Clovers Tie,bodywear,false
+1200,1.0,cosmetics/ties/clovers_tie.webp,Clovers Tie,bodywear,false
+1201,1.0,cosmetics/ties/irishflag_tie.webp,Irish Flag Tie,bodywear,false
+1202,1.0,cosmetics/ties/clovers_bowtie.webp,Light Green Clovers Bowtie,bodywear,false
+1203,1.0,cosmetics/ties/darkgreenclovers_bowtie.webp,Dark Green Clovers Bowtie,bodywear,false
+1204,1.0,cosmetics/cloaks/kiingtongglitched.webp,Kiingtong Glitched,cape,true
+1205,1.0,rose_crown,Hannahxxrose Red Rose Crown,hat,false
+1206,1.0,cosmetics/cloaks/dotwav.webp,DotWav,cape,false
+1207,1.0,cosmetics/cloaks/stimpynuke.webp,Stimpy Nuke,cape,true
+1208,1.0,cosmetics/cloaks/viperpinkspringcloak.webp,Viper Pink Spring Cloak,cape,true
+1209,1.0,cosmetics/cloaks/viperwhitespringcloak.webp,Viper White Spring Cloak,cape,true
+1210,1.0,cosmetics/cloaks/viperblackspringcloak.webp,Viper Black Spring Cloak,cape,true
+1211,1.0,cosmetics/bandannas/viperblackspringbandanna.webp,Viper Black Spring Bandanna,hat,true
+1212,1.0,cosmetics/bandannas/viperpinkspringbandanna.webp,Viper Pink Spring Bandanna,hat,true
+1213,1.0,cosmetics/bandannas/viperwhitespringbandanna.webp,Viper White Spring Bandanna,hat,true
+1214,1.0,cosmetics/cloaks/stimpyrednuke.webp,Stimpy Red Nuke,cape,true
+1215,1.0,cosmetics/cloaks/averyanarchy.webp,Anarchy,cape,false
+1216,1.0,cosmetics/cloaks/hannahxxrosefire.webp,Hannahxxrose Burning Rose,cape,true
+1217,1.0,cosmetics/cloaks/hannahxxrosepink.webp,Hannahxxrose Rose Scenery,cape,true
+1218,1.0,cosmetics/cloaks/adviserfocus.webp,Adviser Focus,cape,true
+1219,1.0,cosmetics/cloaks/swaumpieghost.webp,Swaumpie Ghost,cape,true
+1220,1.0,cosmetics/cloaks/zovabaloon.webp,Zova Balloon Cloak,cape,true
+1221,1.0,cosmetics/masks/zovabaloonmask.webp,Zova Balloon Mask,hat,true
+1222,1.0,cosmetics/cloaks/forrestboneblossom.webp,Forrestbono Blossom,cape,true
+1223,1.0,cosmetics/bandannas/yuseiredbandanna.webp,Yuseifudo Red Bandanna,hat,true
+1224,1.0,cosmetics/bandannas/hannahxxrosebandanna.webp,Hannahxxrose Bandanna,hat,true
+1225,1.0,cosmetics/bandannas/kiingtongglitchedbandanna.webp,Kiingtong Glitched Bandanna,hat,true
+1226,1.0,cosmetics/masks/kiingtongglitchedmask.webp,Kiingtong Glitched Mask,hat,true
+1227,1.0,cosmetics/cloaks/itzglimpsemountain.webp,ItzGlimpse Mountain,cape,true
+1229,1.0,cosmetics/cloaks/xnestoriocomet.webp,xNestorio Animated Comet,cape,true
+1230,1.0,cosmetics/cloaks/greenbunnyearscloak.webp,Teal Bunny Ears,cape,false
+1231,1.0,cosmetics/cloaks/easterbasketcloak.webp,Easter Basket,cape,false
+1232,1.0,cosmetics/cloaks/easterteggscloak.webp,Pink Easter Eggs,cape,false
+1233,1.0,cosmetics/cloaks/easterflowerchickscloak.webp,Easter Flowers,cape,true
+1234,1.0,cosmetics/cloaks/bluelunarbunnies.webp,Blue Lunar Bunnies,cape,false
+1235,1.0,cosmetics/cloaks/yellowlunarchicks.webp,Yellow Lunar Chicks,cape,false
+1236,1.0,cosmetics/cloaks/pinklunartulips.webp,Pink Lunar Tulips,cape,false
+1237,1.0,cosmetics/cloaks/lunardaisy.webp,Green Lunar Daisies,cape,false
+1238,1.0,cosmetics/cloaks/orangelunareggs.webp,Orange Lunar Eggs,cape,false
+1239,1.0,cosmetics/masks/easterbasketmask.webp,Easter Basket Mask,hat,false
+1241,1.0,cosmetics/masks/eastereggsmask.webp,Easter Eggs Mask,hat,false
+1242,1.0,cosmetics/masks/flowerchicksmask.webp,Easter Flowers Mask,hat,true
+1243,1.0,cosmetics/bandannas/easterbasketbandanna.webp,Easter Basket Bandanna,hat,false
+1245,1.0,cosmetics/bandannas/eastereggbandanna.webp,Easter Eggs Bandanna,hat,false
+1246,1.0,cosmetics/bandannas/flowerchickbandanna.webp,Easter Flowers Bandanna,hat,true
+1247,0.13,cosmetics/wings/blueeasterwings.webp,Blue Easter Wings,dragon_wings,false
+1248,0.13,cosmetics/wings/greeneasterwings.webp,Green Easter Wings,dragon_wings,false
+1249,0.13,cosmetics/wings/orangeeasterwings.webp,Orange Easter Wings,dragon_wings,false
+1250,0.13,cosmetics/wings/pinkeasterwings.webp,Pink Easter Wings,dragon_wings,false
+1251,0.13,cosmetics/wings/yelloweasterwings.webp,Yellow Easter Wings,dragon_wings,false
+1252,1.0,bunnyhat,Bunny Hat,hat,false
+1253,1.0,lunarbunnyears,Lunar Bunny Ears,hat,false
+1254,1.0,cosmetics/ties/easterblue_tie.webp,Blue Easter Tie,bodywear,false
+1255,1.0,cosmetics/ties/eastermint_tie.webp,Green Easter Tie,bodywear,false
+1256,1.0,cosmetics/ties/easterpeach_tie.webp,Peach Easter Tie,bodywear,false
+1257,1.0,cosmetics/ties/easterpink_tie.webp,Pink Easter Tie,bodywear,false
+1258,1.0,cosmetics/ties/easteryellow_tie.webp,Yellow Easter Tie,bodywear,false
+1259,1.0,cosmetics/ties/easterblue_bowtie.webp,Blue Easter Bow Tie,bodywear,false
+1260,1.0,cosmetics/ties/eastermint_bowtie.webp,Green Easter Bow Tie,bodywear,false
+1261,1.0,cosmetics/ties/easterpeach_bowtie.webp,Peach Easter Bow Tie,bodywear,false
+1262,1.0,cosmetics/ties/easterpink_bowtie.webp,Pink Easter Bow Tie,bodywear,false
+1263,1.0,cosmetics/ties/easteryellow_bowtie.webp,Yellow Easter Bow Tie,bodywear,false
+1264,1.0,cosmetics/cloaks/manhaliqred.webp,Manhal_IQ_ Red,cape,true
+1265,1.0,cosmetics/cloaks/lunarclienttwoyears.webp,Lunar Client 2 Years,cape,true
+1266,1.0,cosmetics/cloaks/lunarclienttwoyearsnumber.webp,Lunar Client II,cape,true
+1267,1.0,cosmetics/cloaks/lunarclientsilver2.webp,Lunar Client 2,cape,false
+1268,1.0,cosmetics/cloaks/season6vanilla.webp,Season 6 Vanilla,cape,false
+1269,1.0,cosmetics/cloaks/season6soup.webp,Season 6 Soup,cape,false
+1270,1.0,cosmetics/cloaks/season6nodebuff.webp,Season 6 No Debuff,cape,false
+1271,1.0,cosmetics/cloaks/season6global.webp,Season 6 Global,cape,false
+1272,1.0,cosmetics/cloaks/season6debuff.webp,Season 6 Debuff,cape,false
+1273,1.0,cosmetics/cloaks/season6build.webp,Season 6 Build UHC,cape,false
+1274,1.0,cosmetics/cloaks/season6bridges.webp,Season 6 Bridges,cape,false
+1275,1.0,cosmetics/cloaks/season6axe.webp,Season 6 Axe,cape,false
+1276,1.0,cosmetics/cloaks/season6archer.webp,Season 6 Archer,cape,false
+1277,1.0,cosmetics/cloaks/season7vanilla.webp,Season 7 Vanilla,cape,false
+1278,1.0,cosmetics/cloaks/season7soup.webp,Season 7 Soup,cape,false
+1279,1.0,cosmetics/cloaks/season7nodebuff.webp,Season 7 No Debuff,cape,false
+1280,1.0,cosmetics/cloaks/season7global.webp,Season 7 Global,cape,false
+1281,1.0,cosmetics/cloaks/season7debuff.webp,Season 7 Debuff,cape,false
+1282,1.0,cosmetics/cloaks/season7build.webp,Season 7 Build UHC,cape,false
+1283,1.0,cosmetics/cloaks/season7bridges.webp,Season 7 Bridges,cape,false
+1284,1.0,cosmetics/cloaks/season7axe.webp,Season 7 Axe,cape,false
+1285,1.0,cosmetics/cloaks/season7archer.webp,Season 7 Archer,cape,false
+1286,1.0,cosmetics/cloaks/pvplegacy.webp,PvPLegacy,cape,true
+1287,1.0,cosmetics/bandannas/emorsomethingangel.webp,EmOrSomething Angel Bandanna,hat,true
+1288,1.0,cosmetics/bandannas/emorsomethingdiablo.webp,EmOrSomething Diablo Bandanna,hat,true
+1289,1.0,cosmetics/cloaks/emorsomethingangel.webp,EmOrSomething Angel Cloak,cape,true
+1290,1.0,cosmetics/cloaks/emorsomethingdiablo.webp,EmOrSomething Diablo Cloak,cape,true
+1291,1.0,cosmetics/cloaks/bedlessnoobsakura.webp,Bedlessnoob Sakura,cape,true
+1292,1.0,cosmetics/cloaks/astelicsunrise.webp,Astelic Sunrise,cape,true
+1293,1.0,cosmetics/cloaks/astelictrainride.webp,Astelic Train,cape,true
+1294,1.0,cosmetics/masks/manhaliqmask.webp,Manhal_IQ_ Red Mask,hat,false
+1295,1.0,cosmetics/cloaks/sammygreenbubbles.webp,SammyGreen Bubbles,cape,true
+1296,1.0,cosmetics/cloaks/graeciebutterfly.webp,Graecie Butterfly,cape,true
+1297,1.0,cosmetics/masks/yuseifudoredmask.webp,Yuseifudo Red Mask,hat,true
+1298,1.0,cosmetics/cloaks/orilikesteahalo.webp,OriLikesTea Halo,cape,true
+1299,1.0,cosmetics/cloaks/maccaritablue.webp,MaccariTA Blue,cape,false
+1300,1.0,cosmetics/bandannas/tropicalnetworkbandanna.webp,Tropical Network Bandanna,hat,false
+1301,1.0,cosmetics/cloaks/tropicalnetworkcloak.webp,Tropical Network Cloak,cape,true
+1302,1.0,cosmetics/masks/bedlessnoobsakuramask.webp,Bedlessnoob Sakura Mask,hat,true
+1303,1.0,cosmetics/bandannas/bedlessnoobsakurabandanna.webp,Bedlessnoob Sakura Bandanna,hat,true
+1304,1.0,cosmetics/cloaks/rkychungus.webp,RKY Rabbit,cape,false
+1305,1.0,cosmetics/bandannas/astelicsunrise.webp,Astelic Sunrise Bandanna,hat,true
+1306,1.0,pirate,Lego_Maestro Pirate Hat,hat,false
+1307,1.0,cosmetics/cloaks/potsgwinner1.webp,PotSG Winner Tourney #1,cape,false
+1308,1.0,cosmetics/cloaks/dotwavgalaxygames.webp,Dot Wav Galaxy Games,cape,true
+1310,1.0,cosmetics/bandannas/lunarcomicscolorfulbandanna.webp,Lunar Comics Colorful Bandanna,hat,false
+1312,1.0,cosmetics/bandannas/lunarcomicsorangebandanna.webp,Lunar Comics Orange Bandanna,hat,false
+1313,1.0,cosmetics/bandannas/lunarcomicsredbandanna.webp,Lunar Comics Red Bandanna,hat,false
+1314,1.0,cosmetics/bandannas/lunarcomicswhitebandanna.webp,Lunar Comics White Bandanna,hat,false
+1315,1.0,cosmetics/bandannas/lunarcomicsyellowbandanna.webp,Lunar Comics Yellow Bandanna,hat,false
+1316,1.0,cosmetics/cloaks/lunarcomicsblackandhiwtecloak.webp,Lunar Comics White Cloak,cape,false
+1317,1.0,cosmetics/cloaks/lunarcomicscolurfulcloak.webp,Lunar Comics Colorful Cloak,cape,false
+1318,1.0,cosmetics/cloaks/lunarcomicsorangecloak.webp,Lunar Comics Orange Cloak,cape,false
+1321,1.0,cosmetics/cloaks/lunarcomicsredcloak.webp,Lunar Comics Red Cloak,cape,false
+1322,1.0,cosmetics/cloaks/lunarcomicsyellowcloak.webp,Lunar Comics Yellow Cloak,cape,false
+1324,1.0,cosmetics/masks/lunarcomicsblackandwhitemask.webp,Lunar Comics White Mask,hat,false
+1325,1.0,cosmetics/masks/lunarcomicscolorfulmask.webp,Lunar Comics Colorful Mask,hat,false
+1326,1.0,cosmetics/masks/lunarcomicsorangemask.webp,Lunar Comics Orange Mask,hat,false
+1327,1.0,cosmetics/masks/lunarcomicsredmask.webp,Lunar Comics Red Mask,hat,false
+1328,1.0,cosmetics/masks/lunarcomicsyellowmask.webp,Lunar Comics Yellow Mask,hat,false
+1329,0.13,cosmetics/wings/lunarcomicscolorfulwings.webp,Lunar Comics Colorful Wings,dragon_wings,false
+1330,0.13,cosmetics/wings/lunarcomicsorangewings.webp,Lunar Comics Orange Wings,dragon_wings,false
+1331,0.13,cosmetics/wings/lunarcomicsredwings.webp,Lunar Comics Red Wings,dragon_wings,false
+1332,0.13,cosmetics/wings/lunarcomicswhitewings.webp,Lunar Comics White Wings,dragon_wings,false
+1334,0.13,cosmetics/wings/lunarcomicsyellowwings.webp,Lunar Comics Yellow Wings,dragon_wings,false
+1335,1.0,cosmetics/cloaks/pvpwarsanimated.webp,PvP Wars,cape,true
+1336,1.0,cosmetics/bandannas/pvpwarsbandanna.webp,PvP Wars Bandanna,hat,false
+1337,1.0,cosmetics/cloaks/notnicoretrowave.webp,NotNico Retro Wave,cape,true
+1338,1.0,cosmetics/cloaks/cheetahhdeadzone.webp,Cheetahh Deadzone,cape,true
+1339,1.0,cosmetics/cloaks/octc.webp,Overcast Community,cape,true
+1340,1.0,cosmetics/bandannas/octcbandanna.webp,OCC Bandanna,hat,false
+1341,1.0,cosmetics/cloaks/blackstripedcloak.webp,Black Striped Cloak,cape,false
+1342,1.0,cosmetics/cloaks/bluestripedcloak.webp,Dark Blue Striped Cloak,cape,false
+1343,1.0,cosmetics/cloaks/darkpurplestripedcloak.webp,Purple Striped Cloak,cape,false
+1344,1.0,cosmetics/cloaks/lightbluestripedcloak.webp,Baby Blue Striped Cloak,cape,false
+1345,1.0,cosmetics/cloaks/lightpinkstripedcloak.webp,Light Pink Striped Cloak,cape,false
+1346,1.0,cosmetics/cloaks/pinkstripedcloak.webp,Hot Pink Striped Cloak,cape,false
+1347,1.0,cosmetics/cloaks/redorangestripedcloak.webp,Blood Orange Striped Cloak,cape,false
+1348,1.0,cosmetics/cloaks/redstripedcloak.webp,Red Striped Cloak,cape,false
+1349,1.0,cosmetics/cloaks/violetstripedcloak.webp,Violet Striped Cloak,cape,false
+1350,1.0,cosmetics/masks/babypinkstripedmask.webp,Light Pink Striped Mask,hat,false
+1351,1.0,cosmetics/masks/blackstripedmask.webp,Black Striped Mask,hat,false
+1352,1.0,cosmetics/masks/darkbluestripedmask.webp,Dark Blue Striped Mask,hat,false
+1353,1.0,cosmetics/masks/hotpinkstripedmask.webp,Hot Pink Striped Mask,hat,false
+1354,1.0,cosmetics/masks/lightbluestripedmask.webp,Baby Blue Striped Mask,hat,false
+1355,1.0,cosmetics/masks/purplestripedmask.webp,Purple Striped Mask,hat,false
+1356,1.0,cosmetics/masks/redorangestripedmask.webp,Blood Orange Striped Mask,hat,false
+1357,1.0,cosmetics/masks/redstripedmask.webp,Red Striped Mask,hat,false
+1358,1.0,cosmetics/masks/violetstripedmask.webp,Violet Striped Mask,hat,false
+1359,1.0,cosmetics/bandannas/babyblueandwhitestripedbandanna.webp,Baby Blue Striped Bandanna,hat,false
+1360,1.0,cosmetics/bandannas/blackandgraystripedbandanna.webp,Black Striped Bandanna,hat,false
+1361,1.0,cosmetics/bandannas/blackandbluestripedbandanna.webp,Dark Blue Striped Bandanna,hat,false
+1362,1.0,cosmetics/bandannas/blackandpinkstripedbandanna.webp,Hot Pink Striped Bandanna,hat,false
+1363,1.0,cosmetics/bandannas/blackandpurplestripedbandanna.webp,Violet Striped Bandanna,hat,false
+1364,1.0,cosmetics/bandannas/blackandredstripedbandanna.webp,Red Striped Bandanna,hat,false
+1365,1.0,cosmetics/bandannas/lightpinkandwhitestripedbandanna.webp,Light Pink Striped Bandanna,hat,false
+1366,1.0,cosmetics/bandannas/purplestripedbandanna.webp,Purple Striped Bandanna,hat,false
+1367,1.0,cosmetics/bandannas/redstripedbandanna.webp,Blood Orange Striped Bandanna,hat,false
+1368,0.13,cosmetics/wings/blackstripedwings.webp,Black Striped Wings,dragon_wings,false
+1369,0.13,cosmetics/wings/darkbluestripedwings.webp,Dark Blue Striped Wings,dragon_wings,false
+1370,0.13,cosmetics/wings/hotpinkstripedwings.webp,Hot Pink Striped Wings,dragon_wings,false
+1371,0.13,cosmetics/wings/lightbluestripedwings.webp,Baby Blue Striped Wings,dragon_wings,false
+1372,0.13,cosmetics/wings/lightpinkstripedwings.webp,Light Pink Striped Wings,dragon_wings,false
+1373,0.13,cosmetics/wings/purplestripedwings.webp,Purple Striped Wings,dragon_wings,false
+1374,0.13,cosmetics/wings/redorangestipedwings.webp,Blood Orange Striped Wings,dragon_wings,false
+1375,0.13,cosmetics/wings/redstripedwings.webp,Red Striped Wings,dragon_wings,false
+1376,0.13,cosmetics/wings/violetstripedwings.webp,Violet Striped Wings,dragon_wings,false
+1377,1.0,cosmetics/cloaks/galaxyheart.webp,xNestorio Neon Heart,cape,true
+1378,1.0,cosmetics/bandannas/999bandana.webp,Adviser 999 Bandanna,hat,true
+1379,1.0,cosmetics/bandannas/ghostlybandanna.webp,Ghostly Bandanna,hat,true
+1380,1.0,cosmetics/bandannas/averyheartbandanna.webp,Broken Heart Bandanna,hat,true
+1381,1.0,cosmetics/cloaks/epaxialglitchedsky.webp,Epaxial Glitched Sky,cape,true
+1382,1.0,cosmetics/cloaks/viperbluespringcloak.webp,Viper Blue Spring,cape,true
+1383,1.0,cosmetics/bandannas/viperbluespringbandanna.webp,Viper Blue Spring Bandanna,hat,true
+1384,1.0,cosmetics/cloaks/pinkglitch.webp,Kiingtong Pink Glitched,cape,true
+1385,1.0,cosmetics/cloaks/intelwave.webp,IntelEdits Wave,cape,true
+1386,1.0,cosmetics/cloaks/mcbirkendiamond.webp,McBirken Diamond,cape,true
+1387,1.0,cosmetics/cloaks/mcbirkenruby.webp,McBirken Ruby,cape,true
+1388,1.0,cosmetics/cloaks/krinioseyes.webp,Krinios Eye,cape,true
+1389,1.0,cosmetics/cloaks/idiolgameover.webp,Idiol Game Over,cape,true
+1390,1.0,cosmetics/cloaks/versskeletonheart.webp,Vers Skeleton Heart,cape,true
+1391,1.0,cosmetics/cloaks/deltawings.webp,OfficialDelta Wings,cape,true
+1392,1.0,graduation,Graduation Hat,hat,false
+1393,1.0,lunarcrown,Crown,hat,false
+1394,1.0,browndogears,Puppy Ears,hat,false
+1395,1.0,cosmetics/cloaks/rankedbedwarsmap.webp,Ranked Bedwars Map,cape,false
+1396,1.0,cosmetics/cloaks/krustydavidwhite.webp,krustydavid White Sceneary,cape,true
+1397,1.0,cosmetics/bandannas/rankedbedwarsbandanna.webp,Ranked Bedwars Bandanna,hat,true
+1398,1.0,cosmetics/cloaks/spacestation.webp,Spacestation Gaming Event,cape,true
+1399,1.0,cosmetics/cloaks/spacestationgalaxy.webp,Spacestation Gaming Galaxy,cape,true
+1400,1.0,cosmetics/cloaks/tryharddragon.webp,Tryhard Dragon,cape,true
+1401,1.0,cosmetics/cloaks/snifferfishmushroom1.webp,Snifferish Mushroom,cape,false
+1402,1.0,cosmetics/cloaks/snifferfishmushroom2.webp,Snifferish Small Mushrooms,cape,false
+1403,1.0,cosmetics/cloaks/pridecloak1.webp,Pride Month Cloak 1,cape,true
+1404,1.0,cosmetics/cloaks/pridecloak3.webp,Pride Month Cloak 3,cape,true
+1405,1.0,cosmetics/cloaks/pridecloak2.webp,Pride Month Cloak 2,cape,true
+1406,1.0,cosmetics/cloaks/pridecloak6.webp,Pride Month Cloak 6,cape,true
+1407,1.0,cosmetics/cloaks/pridecloak7.webp,Pride Month Cloak 7,cape,true
+1408,1.0,cosmetics/cloaks/pridecloak5.webp,Pride Month Cloak 5,cape,true
+1409,1.0,cosmetics/cloaks/pridecloak4.webp,Pride Month Cloak 4,cape,true
+1410,1.0,cosmetics/cloaks/pridecloak10.webp,Pride Month Cloak 10,cape,true
+1411,1.0,cosmetics/cloaks/pridecloak11.webp,Pride Month Cloak 11,cape,true
+1412,1.0,cosmetics/cloaks/pridecloak13.webp,Pride Month Cloak 13,cape,true
+1413,1.0,cosmetics/cloaks/pridecloak12.webp,Pride Month Cloak 12,cape,true
+1414,1.0,cosmetics/cloaks/pridecloak9.webp,Pride Month Cloak 9,cape,true
+1415,1.0,cosmetics/cloaks/pridecloak8.webp,Pride Month Cloak 8,cape,true
+1416,1.0,cosmetics/cloaks/stimpysunsetdoge.webp,Stimpy Sunset Doge,cape,true
+1417,1.0,cosmetics/cloaks/stimpysunnydoge.webp,Stimpy Sunny Doge,cape,true
+1418,1.0,cosmetics/cloaks/stimpyoceandoge.webp,Stimpy Ocean Doge,cape,true
+1419,1.0,cosmetics/bandannas/captainpuffyrainbowbandanna.webp,CaptainPuffy Rainbow Bandanna,hat,true
+1420,1.0,cosmetics/cloaks/graserforest.webp,Graser Firefly Forest,cape,true
+1421,1.0,cosmetics/cloaks/itzglimpseilywhite.webp,ItzGlimpse ILY White,cape,true
+1422,1.0,cosmetics/cloaks/itzglimpseilyblack.webp,ItzGlimpse ILY Black,cape,true
+1423,1.0,astronauthelmet,Astronaut Helmet,hat,false
+1424,1.0,cosmetics/newdragon/reddragon.webp,Red Dragon Hat,hat,false
+1425,1.0,cosmetics/newdragon/icedragon.webp,Ice Dragon Hat,hat,false
+1426,1.0,cosmetics/newdragon/pinkdragon.webp,Pink Dragon Hat,hat,false
+1427,1.0,cosmetics/football/bluefootballhelmet.webp,Blue Football Helmet,hat,false
+1428,1.0,cosmetics/football/redfootballhelmet.webp,Red Football Helmet,hat,false
+1429,1.0,cosmetics/football/whitefootballhelmet.webp,White Football Helmet,hat,false
+1430,1.0,fishbowlhelmet,Fishbowl Helmet,hat,false
+1431,1.0,cosmetics/cloaks/animatedbeach.webp,Animated Beach,cape,true
+1432,1.0,cosmetics/cloaks/animatedpalmtree.webp,Animated Palm Tree,cape,true
+1433,1.0,cosmetics/cloaks/lunarwaves.webp,Lunar Animated Waves,cape,true
+1434,1.0,cosmetics/cloaks/sunflowerfield.webp,Animated Sunflower Field,cape,true
+1435,1.0,cosmetics/cloaks/sunsetpier.webp,Sunset Pier,cape,false
+1436,1.0,cosmetics/masks/beachmask.webp,Animated Beach Mask,hat,true
+1438,1.0,cosmetics/masks/palmtreemask.webp,Animated Palm Tree Mask,hat,true
+1439,1.0,cosmetics/masks/sunflowerfieldmask.webp,Animated Sunflower Mask,hat,true
+1440,1.0,cosmetics/masks/piermask.webp,Sunset Pier Mask,hat,false
+1441,0.13,cosmetics/wings/beachwings.webp,Beach Wings,dragon_wings,false
+1442,0.13,cosmetics/wings/palmtreewings.webp,Palm Tree Wings,dragon_wings,false
+1443,0.13,cosmetics/wings/piersunsetwings.webp,Sunset Pier Wings,dragon_wings,false
+1444,0.13,cosmetics/wings/sunflowerwings.webp,Sunflower Wings,dragon_wings,false
+1445,1.0,cosmetics/bandannas/animatedbeachbandanna.webp,Animated Beach Bandanna,hat,true
+1446,1.0,cosmetics/bandannas/palmtreebandanna.webp,Palm Tree Bandanna,hat,true
+1447,1.0,cosmetics/bandannas/sunflowerfieldbandanna.webp,Animated Sunflower Bandanna,hat,true
+1448,1.0,cosmetics/bandannas/pierbandanna.webp,Sunset Pier Bandanna,hat,false
+1449,1.0,cosmetics/cloaks/gunga.webp,Gunga Aim,cape,false
+1450,1.0,mushroom,Snifferish Mushroom Hat,hat,false
+1451,1.0,cosmetics/buckethat/4thofjuly_buckethat.webp,4th of July Bucket Hat,hat,false
+1452,1.0,cosmetics/buckethat/babyblue_buckethat.webp,Baby Blue Bucket Hat,hat,false
+1453,1.0,cosmetics/buckethat/red_buckethat.webp,Red Bucket Hat,hat,false
+1454,1.0,cosmetics/buckethat/stripes_buckethat.webp,Striped Bucket Hat,hat,false
+1455,1.0,cosmetics/buckethat/tan_buckethat.webp,Tan Bucket Hat,hat,false
+1456,1.0,cosmetics/cloaks/ponklemons.webp,Ponk Lemons,cape,true
+1457,1.0,cosmetics/cloaks/vipersummerpurple.webp,Viper Summer Purple,cape,true
+1458,1.0,cosmetics/cloaks/vipersummeryellow.webp,Viper Summer Yellow,cape,true
+1459,1.0,cosmetics/cloaks/vipersummergreen.webp,Viper Summer Green,cape,true
+1460,1.0,cosmetics/bandannas/vipersummergreen.webp,Viper Summer Green Bandanna,hat,true
+1461,1.0,cosmetics/bandannas/vipersummerpurple.webp,Viper Summer Purple Bandanna,hat,true
+1462,1.0,cosmetics/bandannas/vipersummeryellow.webp,Viper Summer Yellow Bandanna,hat,true
+1463,1.0,cosmetics/cloaks/adviserdummy.webp,Adviser Dummy,cape,true
+1464,1.0,cosmetics/cloaks/legomaestroedater.webp,Lego_Maestro EDATER,cape,true
+1465,1.0,cosmetics/cloaks/patroxwarwezkingqueen.webp,PatroxWarez King Queen,cape,true
+1466,1.0,cosmetics/cloaks/averypain.webp,Pain,cape,false
+1467,1.0,cosmetics/cloaks/staffsummer.webp,Staff Summer Cloak,cape,false
+1468,1.0,cosmetics/bandannas/staffsummerbandanna.webp,Staff Summer Bandanna,hat,false
+1469,1.0,cosmetics/cloaks/xnestorioswingingstars.webp,xNestorio Swinging Stars,cape,true
+1470,1.0,cosmetics/cloaks/luvonoxtower.webp,Luvonox Tower,cape,true
+1471,1.0,cosmetics/cloaks/4thofjulyamericanflag.webp,4th of July Flag,cape,false
+1472,1.0,cosmetics/cloaks/4thofjulyjets.webp,4th of July Jets,cape,true
+1474,1.0,cosmetics/cloaks/americanheart.webp,American Heart,cape,false
+1475,1.0,cosmetics/cloaks/fireworksflag.webp,4th of July Fireworks,cape,true
+1476,1.0,cosmetics/buckethat/floral_buckethat.webp,Floral Bucket Hat,hat,false
+1477,1.0,cosmetics/cloaks/antisocial.webp,Anti-Social,cape,false
+1478,1.0,cosmetics/cloaks/blackdice.webp,Black Dice,cape,false
+1479,1.0,cosmetics/cloaks/hesmineleft.webp,He's Mine (Left),cape,false
+1480,1.0,cosmetics/cloaks/hesmineright.webp,He's Mine (Right),cape,false
+1481,1.0,cosmetics/cloaks/shesmineright.webp,She's Mine (Right),cape,false
+1482,1.0,cosmetics/cloaks/shesmineleft.webp,She's Mine (Left),cape,false
+1483,1.0,cosmetics/cloaks/theyremineleft.webp,They're Mine (Left),cape,false
+1484,1.0,cosmetics/cloaks/thgeyremineright.webp,They're Mine (Right),cape,false
+1485,1.0,cosmetics/cloaks/holdinghands.webp,Holding Hands,cape,false
+1486,1.0,cosmetics/cloaks/jetsunset.webp,Jet Sunset,cape,true
+1487,1.0,cosmetics/cloaks/lifeline.webp,Lifeline,cape,true
+1488,1.0,cosmetics/cloaks/lunarfriends.webp,L • U • N • A • R,cape,false
+1489,1.0,cosmetics/cloaks/mountainlake.webp,Mountain Lake,cape,true
+1490,1.0,cosmetics/cloaks/pinkandwhitehearts.webp,Pink and White Hearts,cape,false
+1491,1.0,cosmetics/cloaks/whiteandblackhearts.webp,White and Black Hearts,cape,false
+1492,1.0,cosmetics/cloaks/sunsetsilhouette.webp,Skyline Sunset,cape,false
+1493,1.0,cosmetics/ties/usastars_tie.webp,USA Stars Tie,bodywear,false
+1494,1.0,cosmetics/ties/usaflag_tie.webp,USA Flag Tie,bodywear,false
+1495,1.0,cosmetics/ties/usaflag_bowtie.webp,USA Flag Bowtie,bodywear,false
+1496,1.0,cosmetics/ties/usastars_bowtie.webp,USA Stars Bowtie,bodywear,false
+1497,1.0,cosmetics/tophats/tophat_4thofjuly.webp,4th of July Top Hat,hat,false
+1498,1.0,4thofjulyheadband,4th of July Headband,hat,false
+1499,1.0,cosmetics/cloaks/captainpuffyaxolotl.webp,CaptainPuffy Axolotl,cape,true
+1500,1.0,cosmetics/cloaks/forrestcloudberry.webp,Forrestbono Cloudberry,cape,true
+1501,1.0,cosmetics/cloaks/adviserdumber.webp,Adviser Dumber,cape,true
+1502,1.0,cosmetics/cloaks/dogcatwhatcar.webp,Dogcatwhat City,cape,true
+1503,1.0,cosmetics/bandannas/captainpuffyaxolotlbandanna.webp,CaptainPuffy Axolotl Bandanna,hat,true
+1504,1.0,backpack1,Tan Backpack,bodywear,false
+1506,1.0,cosmetics/cloaks/lolitsalexcottagecore.webp,Lolitsalex Cottage Core,cape,false
+1507,1.0,cosmetics/cloaks/lolitsalexkoifish.webp,Lolitsalex Koi Fish,cape,false
+1508,1.0,cosmetics/bandannas/lolitsalexpinkbandanna.webp,Lolitsalex Pink Bandanna,hat,false
+1509,1.0,cosmetics/bandannas/lolitsalexblackbandanna.webp,Lolitsalex Black Bandanna,hat,false
+1510,1.0,cosmetics/cloaks/kittenhearts.webp,Kitten Heart,cape,false
+1511,1.0,cosmetics/cloaks/loveheart.webp,Love Heart,cape,true
+1512,1.0,cosmetics/cloaks/lunarastronaut.webp,Lunar Astronaut,cape,true
+1513,1.0,cosmetics/cloaks/pinkjapaneselandscape.webp,Pink Japanese Landscape,cape,true
+1514,1.0,cosmetics/cloaks/sunsetlake.webp,Sunset Lake,cape,true
+1515,1.0,cosmetics/cloaks/krinioskeys.webp,Krinios Keys,cape,true
+1516,1.0,cosmetics/cloaks/orilikesteateacup.webp,OriLikesTea Tea Cup,cape,true
+1517,1.0,cosmetics/masks/axolotl/pink_axolotl_mask.webp,Axolotl Mask,hat,false
+1518,1.0,cosmetics/axolotl_hat/pink_axolotl_hat.webp,Axolotl Hat,hat,false
+1519,1.0,pinkrosecrown,Hannahxxrose Pink Rose Crown,hat,false
+1520,1.0,cosmetics/cloaks/hannahxxrosepinkrose.webp,Hannahxxrose Pink Rose,cape,true
+1521,1.0,cosmetics/cloaks/birdlandscape.webp,Bird Landscape,cape,true
+1522,1.0,cosmetics/cloaks/dolphinsunset.webp,Dolphin Sunset,cape,true
+1523,1.0,cosmetics/cloaks/fujilandscape.webp,Tryhard Fuji Landscape,cape,true
+1524,1.0,cosmetics/cloaks/happysmileyface.webp,Happy,cape,true
+1525,1.0,cosmetics/cloaks/moonlitsky.webp,Moonlit Sky,cape,true
+1527,1.0,cosmetics/cloaks/planets.webp,Planets,cape,true
+1528,1.0,cosmetics/cloaks/skyscrapers.webp,Skyscrapers,cape,true
+1529,1.0,cosmetics/cloaks/oceanwave.webp,Ocean Wave,cape,true
+1530,1.0,cosmetics/masks/axolotl/blue_axolotl_mask.webp,Axolotl Mask Blue,hat,false
+1531,1.0,cosmetics/axolotl_hat/blue_axolotl_hat.webp,Axolotl Hat Blue,hat,false
+1532,1.0,lion_mask,Lion Mask,hat,false
+1533,1.0,cosmetics/demon_horns/blue_demon_horns.webp,Blue Devil Horns,hat,false
+1534,1.0,cosmetics/demon_horns/hot_pink_demon_horns.webp,Hot Pink Devil Horns,hat,false
+1535,1.0,cosmetics/demon_horns/light_pink_demon_horns.webp,Light Pink Devil Horns,hat,false
+1536,1.0,cosmetics/demon_horns/pink_demon_horns.webp,Pink Devil Horns,hat,false
+1537,1.0,cosmetics/demon_horns/purple_demon_horns.webp,Purple Devil Horns,hat,false
+1538,1.0,cosmetics/cloaks/xnestoriorise.webp,xNestorio Rise,cape,true
+1539,1.0,jetpack,Jetpack,backpack,false
+1540,1.0,cosmetics/cat_ear_headsets/cat_ears_headset.webp,Pink Cat Ear Headset,hat,false
+1541,1.0,cosmetics/cloaks/translator.webp,Lunar Client Translator,cape,false
+1542,1.0,cosmetics/cloaks/sad.webp,Sad,cape,true
+1543,1.0,cosmetics/bandannas/sammygreenbubbles.webp,SammyGreen Bubbles Bandanna,hat,true
+1544,1.0,cosmetics/cloaks/lunarchampsgoldaug21.webp,Lunar Champs Gold Aug 21',cape,false
+1545,1.0,cosmetics/cloaks/lunarchampssilveraug21.webp,Lunar Champs Silver Aug 21',cape,false
+1546,1.0,cosmetics/cloaks/moonsworthglow.webp,Moonsworth Glow,cape,true
+1547,1.0,cosmetics/cloaks/sunsetlakepurple.webp,Sunset Lake Purple,cape,true
+1548,1.0,cosmetics/cloaks/graserliliacskies.webp,Graser Lilac  Skies,cape,true
+1549,1.0,cosmetics/buckle_backpack/backpack_blue.webp,Blue Backpack,backpack,false
+1550,1.0,cosmetics/buckle_backpack/backpack_blue_camo.webp,Blue Camo Backpack,backpack,false
+1551,1.0,cosmetics/buckle_backpack/backpack_brown.webp,Brown Backpack,backpack,false
+1552,1.0,cosmetics/buckle_backpack/backpack_green.webp,Green Backpack,backpack,false
+1553,1.0,cosmetics/buckle_backpack/backpack_pink.webp,Pink Backpack,backpack,false
+1554,1.0,cosmetics/buckle_backpack/backpack_pink_camo.webp,Pink Camo Backpack,backpack,false
+1555,1.0,cosmetics/buckle_backpack/backpack_red.webp,Red Backpack,backpack,false
+1556,1.0,cosmetics/buckle_backpack/backpack_red_camo.webp,Red Camo Backpack,backpack,false
+1557,1.0,cosmetics/bandannas/rkywombocombo.webp,RKY Wombo Combo Bandanna,hat,false
+1558,1.0,cosmetics/cloaks/rkyspringbunny.webp,RKY Spring Bunny,cape,false
+1559,1.0,cosmetics/cloaks/mongoblackheart.webp,Mongo Pulsing Heart,cape,true
